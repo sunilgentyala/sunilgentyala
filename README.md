@@ -93,9 +93,6 @@ He is the creator of two open-source security frameworks — **ContextGuard** (z
 - ISACA Professional Member — ID: 2297870 (active through December 2026)
 - Cloud Security Alliance Expert Representative (HCLTech)
 - ORCID: [0009-0005-2642-3479](https://orcid.org/0009-0005-2642-3479)
-- Pursuing IET Fellowship (FIET)
 - BCS Fellow (Experiential route, completed)
-- IETE Fellow Member
-- SCRS Fellow Nominee
 - Zenodo DOI: [10.5281/zenodo.19241166](https://doi.org/10.5281/zenodo.19241166)
 - #FoundryExpert across IDG/Foundry publications (CSO Online, CIO.com, Computerworld)
