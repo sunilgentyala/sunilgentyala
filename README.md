@@ -1,106 +1,103 @@
-<div align="center">
 
-# Sunil Gentyala
-
-### Lead Cybersecurity and AI Security Consultant | IEEE Senior Member | Cloud Security Alliance Representative
-
-[![IEEE Senior Member](https://img.shields.io/badge/IEEE-Senior%20Member%20%23101760715-00629B?style=flat-square&logo=ieee&logoColor=white)](https://www.ieee.org/)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--2642--3479-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-2642-3479)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sunil--gentyala-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunil-gentyala/)
-[![CSA](https://img.shields.io/badge/Cloud%20Security%20Alliance-Expert%20Representative-0066CC?style=flat-square)](https://cloudsecurityalliance.org/)
-
-</div>
+[![Profile Views](https://komarev.com/ghpvc/?username=sunilgentyala&style=flat-square&color=blue)](https://github.com/sunilgentyala)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunilgentyala/)
+[![IEEE Badge](https://img.shields.io/badge/IEEE_Senior_Member-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://www.ieee.org/)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-2642-3479)
+[![CSA Badge](https://img.shields.io/badge/Cloud_Security_Alliance-Expert-005F9E?style=for-the-badge)](https://cloudsecurityalliance.org/)
 
 ---
 
-## About Me
+Sunil Gentyala is a Lead Cybersecurity and AI Security Consultant at HCLTech, where he leads an 11-person security team serving Fortune 500 clients including Uber, Disney, and Royal Caribbean. He serves as HCLTech's designated expert representative to the Cloud Security Alliance and is Security Architect and Framework Designer for HCLTech's AIDefendX initiative.
 
-I have spent close to two decades in cybersecurity, and honestly, most of that time was spent trying to stay one step ahead of threats that did not have names yet. These days, that focus has shifted almost entirely to AI security, specifically what happens when autonomous agents get access to tools, data, and the ability to take real-world actions without a human in the loop.
+His research spans adversarial machine learning, Model Context Protocol (MCP) vulnerability analysis, post-quantum cryptography, and agentic AI governance. He is an IEEE Senior Member (No. 101760715), active ISACA Professional Member, and holds the 2026 Cybersecurity Excellence Awards Bronze (Cybersecurity Professional of the Year).
 
-I work as a Lead Cybersecurity and AI Security Consultant at **HCLTech (HCL America)** in Dallas, Texas, where I lead a team of 11 security professionals and manage enterprise security programs for Fortune 500 clients including **Uber, Disney, Royal Caribbean, and Fidelity Investments**. I also serve as HCLTech's designated expert representative to the **Cloud Security Alliance (CSA)**, where I contribute to working groups on IAM standards, post-quantum cryptography, and cloud key management.
+He is the creator of two open-source security frameworks — **ContextGuard** (zero-trust middleware for MCP security) and the **GSH Framework** (agentic AI threat hunting mapped to MITRE ATLAS and NIST CSF 2.0) — and has published across Dark Reading, SC World, SecurityWeek, Infosecurity Magazine, and the Cloud Security Alliance.
 
-My current research obsession is **Model Context Protocol (MCP) security**. MCP is rapidly becoming the plumbing behind agentic AI systems, and most organizations have no idea how to think about its attack surface, let alone govern it. That gap is what I spend most of my research time on.
+### Highlights
 
----
-
-## What I Am Working On
-
-### ContextGuard Framework
-ContextGuard is a zero-trust security framework I designed specifically for MCP-enabled agentic AI deployments. The problem it solves is real: when an AI agent can invoke tools, read files, query databases, and chain those actions across systems, the traditional perimeter-based security model completely falls apart. ContextGuard maps MCP-specific threats like tool poisoning, context manipulation, and cross-agent privilege escalation to NIST CSF 2.0 and COBIT 2019 controls, giving security teams an actual audit methodology they can apply in production environments.
-
-- [`gsh-framework`](https://github.com/sunilgentyala/gsh-framework) - Autonomous agentic AI threat hunting framework with hunt playbooks, behavioral baselining, and zero-trust enforcement for LLM and multi-agent pipeline security
-- [`gensecurity`](https://github.com/sunilgentyala/gensecurity) - Generative AI security research and tooling
-
-### MCP Attack Surface Research
-Beyond the framework, I have been documenting specific attack vectors in MCP implementations that do not appear in existing CVE databases or vendor documentation. Cross-context tool poisoning, server-side prompt injection via tool responses, and session token leakage in multi-tenant MCP setups are among the issues I have been tracking and publishing on.
-
-### LLM Jailbreak Taxonomy
-I put together a systematic survey of LLM jailbreak techniques that goes beyond the usual "prompt injection bad" framing. The taxonomy covers adversarial goal hijacking, semantic manipulation, role-play exploitation, and multi-turn attack chains, with a structured analysis of which defenses actually hold up under which attack conditions.
+- Lead Cybersecurity and AI Security Consultant at HCLTech, managing Fortune 500 client security programs
+- IEEE Senior Member (No. 101760715) with ORCID 0009-0005-2642-3479
+- 2026 Cybersecurity Excellence Awards Bronze — Cybersecurity Professional of the Year
+- Shortlisted, 2026 Cyber Security Influencer of the Year (Cyber Security Awards)
+- National Cyber Awards Alan Turing Cyber Leadership Award nominee
+- HCLTech designated expert representative to the Cloud Security Alliance
+- Security Architect and Framework Designer for HCLTech AIDefendX
+- Published researcher in post-quantum cryptography, MCP security, and agentic AI governance
+- Active peer reviewer for IEEE, CSA, and international conferences
+- Hackathon and science fair judge: C-Day Indiana, CDR West Point
 
 ---
 
-## Published Research
+### Open Source Frameworks
 
-### Academic Papers
+[ContextGuard](https://github.com/sunilgentyala/contextguard): Zero-trust middleware for Model Context Protocol (MCP) security [![Stars](https://img.shields.io/github/stars/sunilgentyala/contextguard?style=flat&color=gold)](https://github.com/sunilgentyala/contextguard)
 
-| Venue | Title | Status |
-|---|---|---|
-| ISACA Journal | Governing Agentic AI: An Audit Framework for Model Context Protocol (MCP) Deployments | Published |
-| Elsevier Computers & Security | Systematic Survey on LLM Jailbreak Attacks and Defenses | Under Review |
-| IEEE Security & Privacy Magazine | CookieShield: A Telemetry-Driven Prevention Architecture for Cookie Theft Attacks | Under Review |
-| IEEE Conference | AI Threats in Public Key Infrastructure | Submitted |
-
-### Industry Writing
-
-I write regularly for security practitioners and enterprise leaders. You can find my bylined work at:
-
-| Outlet | Topics |
-|---|---|
-| CSO Online (5 articles) | MCP Security, Zero-Trust for AI, LLM Threat Modeling |
-| Cloud Security Alliance Blog (4 articles) | MCP Zero-Trust, Agentic AI Governance, PQC Migration |
-| CIO.com | AI Security Strategy for Enterprise Leaders |
-| Security Boulevard (2 articles) | LLM Jailbreaking, Adversarial AI |
-| Cyber Defense Magazine | Agentic AI Risk, MCP Attack Surfaces |
-| Computerworld | AI Security and Governance |
-
-My articles on CSO Online and CIO.com carry the **Foundry Expert** designation.
+[GSH Framework](https://github.com/sunilgentyala/gsh-framework): Gentyala-Sovereign Hunt — Agentic AI threat hunting mapped to MITRE ATLAS and NIST CSF 2.0 [![Stars](https://img.shields.io/github/stars/sunilgentyala/gsh-framework?style=flat&color=gold)](https://github.com/sunilgentyala/gsh-framework)
 
 ---
 
-## Background and Credentials
+### Selected Publications & Media
 
-I hold **11 professional certifications** spanning cloud platforms (AWS, Azure, GCP), application security, risk management, and AI/ML security. I became an **IEEE Senior Member** (Member #101760715) through peer review of my research contributions and professional standing, which is a distinction fewer than 10% of IEEE members hold.
+[A Post-Quantum Migration Taxonomy for Model Context Protocol](https://zenodo.org/record/19241166) — Multi-venue paper (IEEE TIFS, ACM QSec, Elsevier FGCS) applying RFC 9794 PQ/T hybrid constructs to agentic AI infrastructure
 
-On the research side, my ORCID profile ([0009-0005-2642-3479](https://orcid.org/0009-0005-2642-3479)) tracks my academic publication record across IEEE, Elsevier, and ISACA venues.
+[LLM Jailbreak Survey](https://doi.org/10.5281/zenodo.19241166) — Published to Zenodo (DOI: 10.5281/zenodo.19241166) and SSRN
 
-Before the AI security focus took over, I spent years deep in PKI infrastructure, multi-cloud security architecture, application security programs, and offensive red team work. That operational background is what keeps my research grounded, I write about things I have actually had to defend against in production.
+[MCP Security Analysis](https://www.scworld.com/) — SC World, published article on MCP security attack vectors and zero-trust mitigations
 
----
+[Governing Agentic AI via MCP and COBIT 2019/NIST CSF 2.0](https://www.isaca.org/resources/isaca-journal) — ISACA Journal, co-authored with Praveen Kumar Mannam (Salesforce)
 
-## Technical Focus Areas
+[Zero-Trust Data Pipelines](https://jrtcse.com/) — JRTCSE, co-authored with Sunil Kumar Mudusu (Church Mutual Insurance)
 
-```
-AI / ML Security     LLM Security | Agentic AI Threat Modeling | MCP Security | AI Red Teaming
-Zero-Trust           NIST CSF 2.0 | COBIT 2019 | Zero-Trust Architecture Design and Implementation
-Cloud Security       AWS | Azure | GCP | Multi-Cloud CSPM | CNAPP
-Application Security OWASP | SAST | DAST | Threat Modeling | Secure SDLC
-Cryptography         PKI | Post-Quantum Cryptography | Key Lifecycle Management | Crypto Agility
-Compliance           SOC 2 | ISO 27001 | NIST 800-53 | CSA CCM
-```
+[Identity 3.0 and Zero-Trust for Critical Infrastructure](https://edas.info/) — IEEE SmartNets 2026 submission introducing the IMM-CI maturity model
 
 ---
 
-## Let's Talk
+### Tech Stack
 
-I am always interested in connecting with researchers, practitioners, and security leaders working on AI security, zero-trust architecture, or post-quantum cryptography. If you want to collaborate on research, discuss a paper, or just talk through a problem you are wrestling with, reach out.
+**Security Domains**
 
-**IEEE Email:** sunil.gentyala@ieee.org
-**HCLTech Email:** gentyalas@hcltech.com
-**LinkedIn:** [linkedin.com/in/sunil-gentyala](https://www.linkedin.com/in/sunil-gentyala/)
-**ORCID:** [orcid.org/0009-0005-2642-3479](https://orcid.org/0009-0005-2642-3479)
+[![Zero Trust](https://img.shields.io/badge/Zero_Trust_Architecture-0A0A0A?style=for-the-badge)](https://www.nist.gov/publications/zero-trust-architecture)
+[![Post-Quantum Crypto](https://img.shields.io/badge/Post--Quantum_Cryptography-003366?style=for-the-badge)](https://csrc.nist.gov/projects/post-quantum-cryptography)
+[![PKI](https://img.shields.io/badge/Enterprise_PKI-4B0082?style=for-the-badge)](https://www.nist.gov/)
+[![Adversarial ML](https://img.shields.io/badge/Adversarial_ML-8B0000?style=for-the-badge)](https://atlas.mitre.org/)
+
+**Frameworks & Standards**
+
+[![MITRE ATLAS](https://img.shields.io/badge/MITRE_ATLAS-CC0000?style=for-the-badge)](https://atlas.mitre.org/)
+[![NIST CSF](https://img.shields.io/badge/NIST_CSF_2.0-003366?style=for-the-badge)](https://www.nist.gov/cyberframework)
+[![COBIT](https://img.shields.io/badge/COBIT_2019-005F9E?style=for-the-badge)](https://www.isaca.org/resources/cobit)
+[![MCP](https://img.shields.io/badge/Model_Context_Protocol-FF6600?style=for-the-badge)](https://modelcontextprotocol.io/)
+
+**Cloud & Infrastructure**
+
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+
+**Languages & Tools**
+
+[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
+[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
+[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
 
 ---
 
-<div align="center">
-<sub>Dallas, Texas &nbsp;|&nbsp; HCLTech &nbsp;|&nbsp; IEEE Senior Member #101760715 &nbsp;|&nbsp; Cloud Security Alliance</sub>
-</div>
+### GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sunilgentyala&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
+
+### Memberships & Credentials
+
+- IEEE Senior Member — No. 101760715
+- ISACA Professional Member — ID: 2297870 (active through December 2026)
+- Cloud Security Alliance Expert Representative (HCLTech)
+- ORCID: [0009-0005-2642-3479](https://orcid.org/0009-0005-2642-3479)
+- Pursuing IET Fellowship (FIET)
+- BCS Fellow (Experiential route, completed)
+- IETE Fellow Member
+- SCRS Fellow Nominee
+- Zenodo DOI: [10.5281/zenodo.19241166](https://doi.org/10.5281/zenodo.19241166)
+- #FoundryExpert across IDG/Foundry publications (CSO Online, CIO.com, Computerworld)
