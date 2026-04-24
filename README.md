@@ -40,7 +40,7 @@ He is the creator of two open-source security frameworks — **ContextGuard** (z
 
 [LLM Jailbreak Survey](https://doi.org/10.5281/zenodo.19241166) — Published to Zenodo (DOI: 10.5281/zenodo.19241166) and SSRN
 
-[MCP Security Analysis](https://www.scworld.com/) — SC World, published article on MCP security attack vectors and zero-trust mitigations
+[MCP Security Analysis](https://www.scworld.com/perspective/mcp-is-the-backdoor-your-zero-trust-architecture-forgot-to-close/) — SC World, published article on MCP security attack vectors and zero-trust mitigations
 
 [Governing Agentic AI via MCP and COBIT 2019/NIST CSF 2.0](https://www.isaca.org/resources/isaca-journal) — ISACA Journal, co-authored with Praveen Kumar Mannam (Salesforce)
 
