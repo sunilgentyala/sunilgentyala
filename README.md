@@ -1,4 +1,3 @@
-
 [![Profile Views](https://komarev.com/ghpvc/?username=sunilgentyala&style=flat-square&color=blue)](https://github.com/sunilgentyala)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunilgentyala/)
 [![IEEE Badge](https://img.shields.io/badge/IEEE_Senior_Member-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://www.ieee.org/)
@@ -21,10 +20,9 @@ He is the creator of two open-source security frameworks — **ContextGuard** (z
 - Shortlisted, 2026 Cyber Security Influencer of the Year (Cyber Security Awards)
 - National Cyber Awards Alan Turing Cyber Leadership Award nominee
 - HCLTech designated expert representative to the Cloud Security Alliance
-- Security Architect and Framework Designer for HCLTech AIDefendX
 - Published researcher in post-quantum cryptography, MCP security, and agentic AI governance
 - Active peer reviewer for IEEE, CSA, and international conferences
-- Hackathon and science fair judge: C-Day Indiana, CDR West Point
+- Peer reviewer, [Cyber Defense Review](https://cyberdefensereview.army.mil/) — peer-reviewed journal of the U.S. Army Cyber Institute at West Point (2026)
 
 ---
 
