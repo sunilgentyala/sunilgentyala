@@ -10,7 +10,7 @@ Sunil Gentyala is a Lead Cybersecurity and AI Security Consultant at HCLTech, wh
 
 His research spans adversarial machine learning, Model Context Protocol (MCP) vulnerability analysis, post-quantum cryptography, and agentic AI governance. He is an IEEE Senior Member (No. 101760715), active ISACA Professional Member, and holds the 2026 Cybersecurity Excellence Awards Bronze (Cybersecurity Professional of the Year).
 
-He is the creator of two open-source security frameworks — **ContextGuard** (zero-trust middleware for MCP security) and the **GSH Framework** (agentic AI threat hunting mapped to MITRE ATLAS and NIST CSF 2.0) — and has published across Dark Reading, SC World, SecurityWeek, Infosecurity Magazine, and the Cloud Security Alliance.
+He is the creator of two open-source security frameworks — **ContextGuard** (zero-trust middleware for MCP security) and the **GSH Framework** (agentic AI threat hunting mapped to MITRE ATLAS and NIST CSF 2.0) — and has published across CSO Online, Dark Reading, SC World, Cyber Defense Magazine, BiometricUpdate.com, and the Cloud Security Alliance, with podcast features on *Decoded: The Cybersecurity Podcast*.
 
 ### Highlights
 
@@ -36,17 +36,39 @@ He is the creator of two open-source security frameworks — **ContextGuard** (z
 
 ### Selected Publications & Media
 
+#### Research & Academic Papers
+
 [A Post-Quantum Migration Taxonomy for Model Context Protocol](https://zenodo.org/record/19241166) — Multi-venue paper (IEEE TIFS, ACM QSec, Elsevier FGCS) applying RFC 9794 PQ/T hybrid constructs to agentic AI infrastructure
 
 [LLM Jailbreak Survey](https://doi.org/10.5281/zenodo.19241166) — Published to Zenodo (DOI: 10.5281/zenodo.19241166) and SSRN
-
-[MCP Security Analysis](https://www.scworld.com/perspective/mcp-is-the-backdoor-your-zero-trust-architecture-forgot-to-close/) — SC World, published article on MCP security attack vectors and zero-trust mitigations
 
 [Governing Agentic AI via MCP and COBIT 2019/NIST CSF 2.0](https://www.isaca.org/resources/isaca-journal) — ISACA Journal, co-authored with Praveen Kumar Mannam (Salesforce)
 
 [Zero-Trust Data Pipelines](https://jrtcse.com/) — JRTCSE, co-authored with Sunil Kumar Mudusu (Church Mutual Insurance)
 
 [Identity 3.0 and Zero-Trust for Critical Infrastructure](https://edas.info/) — IEEE SmartNets 2026 submission introducing the IMM-CI maturity model
+
+#### Industry Articles
+
+[1,800+ MCP Servers Exposed Without Authentication: How Zero Trust Can Secure the AI Agent Revolution](https://www.csoonline.com/article/4168979/1800-mcp-servers-exposed-without-authentication-how-zero-trust-can-secure-the-ai-agent-revolution.html) — CSO Online, May 2026 — warns that over 1,800 unauthenticated MCP servers expose enterprise AI infrastructure to critical security risks
+
+[MCP is the Backdoor Your Zero-Trust Architecture Forgot to Close](https://www.scworld.com/perspective/mcp-is-the-backdoor-your-zero-trust-architecture-forgot-to-close/) — SC World, March 2026 — analysis of MCP security attack vectors, hidden AI attack surface, and zero-trust mitigations
+
+[The Sentinel Intelligence: A CISO's Guide to Sovereign Security in the Age of AGI](https://www.cyberdefensemagazine.com/the-sentinel-intelligence-a-cisos-guide-to-sovereign-security-in-the-age-of-agi/) — Cyber Defense Magazine, February 2026 — introduces the Sentinel Intelligence (SI) architectural framework for countering agentic AI threats
+
+[Why 2025's Agentic AI Boom Is a CISO's Worst Nightmare](https://www.csoonline.com/article/4132860/why-2025s-agentic-ai-boom-is-a-cisos-worst-nightmare.html) — CSO Online, February 2026 — examines indirect prompt injection, memory poisoning, and agentic denial-of-service exploits in enterprise AI deployments
+
+[Hardening Browser Security with Zero-Trust Controls](https://www.csoonline.com/article/4101173/hardening-browser-security-with-zero-trust-controls.html) — CSO Online, December 2025 — six-principle browser-centric zero-trust framework with NIST SP 800-207 and CISA Maturity Model alignment
+
+[Beyond Silos: How DDI-AI Integration Is Redefining Cyber Resilience](https://www.csoonline.com/article/4087578/beyond-silos-how-ddi-ai-integration-is-redefining-cyber-resilience.html) — CSO Online, November 2025 — how DDI-AI integration transforms cybersecurity from reactive defense to predictive, automated threat detection
+
+#### Media Coverage & Podcast Citations
+
+[Zscaler-SquareX Deal Boosts Zero Trust, Secure Browsing Capabilities](https://www.darkreading.com/remote-workforce/zscaler-squarex-deal-boosts-zero-trust-secure-browsing-capabilities) — Dark Reading — expert commentary on browser-centric enforcement architecture and browser zero-trust adoption
+
+[Non-Stop Agentic AI Action Has Teams Assembling to Face the Threat](https://www.biometricupdate.com/202605/non-stop-agentic-ai-action-has-teams-assembling-to-face-the-threat) — BiometricUpdate.com, May 2026 — quoted on enterprise AI agent infrastructure security risks and deployment security gaps
+
+[Browser Zero Trust: Hardening Security Controls](https://open.spotify.com/episode/1N0eLPJHXajFKWgpBynjGX) — *Decoded: The Cybersecurity Podcast*, December 2025 (41 min) — full episode based on his CSO Online browser zero-trust article; also on [Apple Podcasts](https://podcasts.apple.com/us/podcast/browser-zero-trust-hardening-security-controls/id1790909321?i=1000740296444)
 
 ---
 
