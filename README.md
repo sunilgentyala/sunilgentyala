@@ -32,6 +32,8 @@ He is the creator of two open-source security frameworks — **ContextGuard** (z
 
 [GSH Framework](https://github.com/sunilgentyala/gsh-framework): Gentyala-Sovereign Hunt — Agentic AI threat hunting mapped to MITRE ATLAS and NIST CSF 2.0 [![Stars](https://img.shields.io/github/stars/sunilgentyala/gsh-framework?style=flat&color=gold)](https://github.com/sunilgentyala/gsh-framework)
 
+[DockerDNA](https://sunilgentyala.github.io/DockerDNA/): Layer-by-layer container security analysis — secrets detection (regex + Shannon entropy), docker-compose scanning, CIS Docker Benchmark v1.6 compliance, CycloneDX SBOM, and SARIF output [![Stars](https://img.shields.io/github/stars/sunilgentyala/DockerDNA?style=flat&color=gold)](https://github.com/sunilgentyala/DockerDNA)
+
 ---
 
 ### Selected Publications & Media
