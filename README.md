@@ -1,5 +1,5 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=sunilgentyala&style=flat-square&color=blue)](https://github.com/sunilgentyala)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunilgentyala/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/sunilgentyala](https://www.linkedin.com/in/sunil-gentyala/)/)
 [![IEEE Badge](https://img.shields.io/badge/IEEE_Senior_Member-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://www.ieee.org/)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-2642-3479)
 [![CSA Badge](https://img.shields.io/badge/Cloud_Security_Alliance-Expert-005F9E?style=for-the-badge)](https://cloudsecurityalliance.org/)
