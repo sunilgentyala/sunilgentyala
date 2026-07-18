@@ -17,7 +17,7 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 
 - Lead Cybersecurity and AI Security Consultant at HCLTech, managing Fortune 500 client security programs
 - IEEE Senior Member (No. 101760715) with ORCID 0009-0005-2642-3479
-- 9 peer-reviewed IEEE conference papers accepted in 2026, including one (CADLP) published on IEEE Xplore
+- 9 peer-reviewed IEEE conference papers accepted in 2026, 3 published on IEEE Xplore (CADLP, SybilShield-Core, IMM-CI/Identity 3.0)
 - Applied research published with the Cloud Security Alliance on zero-trust architectures for multi-agent AI (June 2026)
 - 2026 Cybersecurity Excellence Awards Bronze, Cybersecurity Professional of the Year
 - Shortlisted, 2026 Cyber Security Influencer of the Year (Cyber Security Awards)
@@ -41,7 +41,7 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 
 [TRACE-MAS](https://sunilgentyala.github.io/TRACE-MAS/): Unified cryptographic framework securing multi-agent LLM pipelines against cascading drift, identity spoofing, prompt injection, and temporal adversarial attacks [![Stars](https://img.shields.io/github/stars/sunilgentyala/TRACE-MAS?style=flat&color=gold)](https://github.com/sunilgentyala/TRACE-MAS)
 
-[SybilShield-Core](https://sunilgentyala.github.io/SybilShield-Core/): Composite trust scoring framework for Sybil attack mitigation in permissionless blockchain networks, 94%+ detection at 40% adversary density (accepted, IEEE ICICDS 2026) [![Stars](https://img.shields.io/github/stars/sunilgentyala/SybilShield-Core?style=flat&color=gold)](https://github.com/sunilgentyala/SybilShield-Core)
+[SybilShield-Core](https://sunilgentyala.github.io/SybilShield-Core/): Composite trust scoring framework for Sybil attack mitigation in permissionless blockchain networks (published, [IEEE Xplore](https://ieeexplore.ieee.org/document/11604799), IEEE ICICDS 2026) [![Stars](https://img.shields.io/github/stars/sunilgentyala/SybilShield-Core?style=flat&color=gold)](https://github.com/sunilgentyala/SybilShield-Core)
 
 [CADLP](https://sunilgentyala.github.io/cadlp/): Context-aware DLP proxy that detects and redacts credentials, PII, and proprietary code before prompts reach external LLM APIs (published, [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11570292)) [![Stars](https://img.shields.io/github/stars/sunilgentyala/cadlp?style=flat&color=gold)](https://github.com/sunilgentyala/cadlp)
 
@@ -75,7 +75,7 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 | [PRANIDHI](https://github.com/sunilgentyala/PRANIDHI) | Pre-prompt coaching framework for enterprise AI, teaches safe prompt rewriting instead of blocking |
 | [ReasonTree](https://github.com/sunilgentyala/ReasonTree) | Reasoning-based document retrieval using hierarchical tree indexing, no vector database required |
 | [cyberfuse-ci](https://github.com/sunilgentyala/cyberfuse-ci) | Adversarially resilient vulnerability detection via heterogeneous multi-source data fusion and LLM-augmented reasoning |
-| [imm-ci-framework](https://github.com/sunilgentyala/imm-ci-framework) | IMM-CI self-assessment tool, companion to the IEEE SmartNets 2026 paper |
+| [imm-ci-framework](https://github.com/sunilgentyala/imm-ci-framework) | IMM-CI self-assessment tool, companion to the IEEE SmartNets 2026 paper (published, [IEEE Xplore](https://ieeexplore.ieee.org/document/11604842)) |
 | [awesome-ai-security](https://github.com/sunilgentyala/awesome-ai-security) | Curated collection of resources related to AI security |
 
 ---
@@ -87,9 +87,9 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 | Paper | Venue |
 |---|---|
 | [Contextual Sensitivity Classification and Utility-Preserving Redaction for Enterprise LLM Deployments (CADLP)](https://ieeexplore.ieee.org/abstract/document/11570292) | IEEE ICIRCA 2026 (published, IEEE Xplore) |
-| SybilShield-Core: A Composite Trust Scoring Framework for Sybil Attack Mitigation in Permissionless Blockchain Networks | IEEE ICICDS 2026, Paper ID ICICDS-690 |
+| [SybilShield-Core: A Composite Trust Scoring Framework for Sybil Attack Mitigation in Permissionless Blockchain Networks](https://ieeexplore.ieee.org/document/11604799) | IEEE ICICDS 2026, Paper ID ICICDS-690 (published, IEEE Xplore) |
 | A Post-Quantum Security Framework for Model Context Protocol Using ContextGuard | IEEE ICSCSA 2026 |
-| The Metamorphosis of Access: Strategic Imperatives for Identity 3.0 and Zero Trust Integration in Critical Infrastructure | IEEE SmartNets 2026, EDAS #1571252869, introduces the IMM-CI maturity model |
+| [The Metamorphosis of Access: Strategic Imperatives for Identity 3.0 and Zero Trust Integration in Critical Infrastructure](https://ieeexplore.ieee.org/document/11604842) | IEEE SmartNets 2026, EDAS #1571252869, introduces the IMM-CI maturity model (published, IEEE Xplore) |
 | Governing Heterogeneous API Gateway Estates Through Policy-as-Code: An Engineering Management Perspective | IEEE TEMSCON GLOBAL 2026 |
 | A Zero-Trust Supply Chain Security Framework for Model Context Protocol-Based AI Systems | IEEE ICCBI 2026 |
 | AdaptFlow: A Self-Optimizing AI-Driven Data Pipeline Architecture for Real-Time Inference at Scale | IEEE ICETM 2026 |
