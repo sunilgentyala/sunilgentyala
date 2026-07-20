@@ -132,6 +132,8 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 
 [Browser Zero Trust: Hardening Security Controls](https://open.spotify.com/episode/1N0eLPJHXajFKWgpBynjGX): *Decoded: The Cybersecurity Podcast*, December 2025 (41 min), full episode based on his CSO Online browser zero-trust article, also on [Apple Podcasts](https://podcasts.apple.com/us/podcast/browser-zero-trust-hardening-security-controls/id1790909321?i=1000740296444)
 
+[AI Agent Held a Database for Ransom, Key Never Saved, and Paying Wouldn't Have Helped](https://www.linkedin.com/pulse/ai-agent-held-database-ransom-key-never-saved-paying-wouldnt-nakash-vqkpf/): LinkedIn, Asaf Nakash, names his [AegisSwarm-Core](https://github.com/sunilgentyala/AegisSwarm-Core) proposal directly as "one of the few serious attempts to contain coordinated multi-agent systems"; companion [Spotify episode](https://open.spotify.com/episode/1PpMTGsBxmBY4TRhpCIDJz) on *Context Window: AI Security Podcast* covers the same agentic-ransomware threat landscape
+
 ---
 
 ### Tech Stack
