@@ -138,6 +138,8 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 
 [Zero-Trust AI Governance for Multi-Agent Systems](https://agentic-threat-tracker.com/incident/f34fe4ee00098a12515c82d359c09b4f0458a30b): Agentic Threat Tracker, 24 July 2026, incident-tracker entry on the CSA "Securing the Swarm" analysis, names his [AegisSwarm-Core](https://github.com/sunilgentyala/AegisSwarm-Core) proposal directly ("introduces AegisSwarm, a proposed open-source reference implementation for zero-trust multi-agent security")
 
+[THE SIGNAL — Mattei Systems Intelligence Brief](https://www.linkedin.com/pulse/signal-mariano-mattei-1lnfe/): LinkedIn newsletter, Mariano Mattei (Founder & Principal AI Architect, Mattei Systems), August 2026, weekly cybersecurity intelligence brief builds its Executive Insight and Recommended Action sections around his CSO Online OAuth client ID spoofing article, prescribing AADSTS700016 alert retooling for client-ID cardinality spikes as "the detection the OAuth spoofing piece prescribes"
+
 ---
 
 ### Tech Stack
