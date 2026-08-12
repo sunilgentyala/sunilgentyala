@@ -112,6 +112,8 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 
 #### Industry Articles
 
+[4 Million Fake Applications and One Blind Spot: A SOC Playbook for OAuth Client ID Spoofing](https://www.csoonline.com/article/4206750/4-million-fake-applications-and-one-blind-spot-a-soc-playbook-for-oauth-client-id-spoofing.html): CSO Online, August 2026, detection and response playbook for OAuth client ID spoofing campaigns enumerating Microsoft Entra ID accounts, covering client ID cardinality analysis and the AADSTS700016 detection signal
+
 [1,800+ MCP Servers Exposed Without Authentication: How Zero Trust Can Secure the AI Agent Revolution](https://www.csoonline.com/article/4168979/1800-mcp-servers-exposed-without-authentication-how-zero-trust-can-secure-the-ai-agent-revolution.html): CSO Online, May 2026, warns that over 1,800 unauthenticated MCP servers expose enterprise AI infrastructure to critical security risks
 
 [MCP is the Backdoor Your Zero-Trust Architecture Forgot to Close](https://www.scworld.com/perspective/mcp-is-the-backdoor-your-zero-trust-architecture-forgot-to-close/): SC World, March 2026, analysis of MCP security attack vectors, hidden AI attack surface, and zero-trust mitigations
