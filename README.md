@@ -112,6 +112,8 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 
 #### Industry Articles
 
+[Shadow Agents: How IT Leaders Must Govern Headless AI Before It Breaks the Enterprise](https://www.cio.com/article/4191250/shadow-agents-how-it-leaders-must-govern-headless-ai-before-it-breaks-the-enterprise.html): CIO.com, July 2026, argues IT leaders must establish governance infrastructure, including prompt management, guardrails, and runtime isolation, to track and control autonomous AI agents operating invisibly within enterprise systems before security incidents occur
+
 [4 Million Fake Applications and One Blind Spot: A SOC Playbook for OAuth Client ID Spoofing](https://www.csoonline.com/article/4206750/4-million-fake-applications-and-one-blind-spot-a-soc-playbook-for-oauth-client-id-spoofing.html): CSO Online, August 2026, detection and response playbook for OAuth client ID spoofing campaigns enumerating Microsoft Entra ID accounts, covering client ID cardinality analysis and the AADSTS700016 detection signal
 
 [Post-quantum HTTPS migration faces enterprise browser challenges](https://www.scworld.com/perspective/post-quantum-https-migration-faces-enterprise-browser-challenges): SC World, July 2026, examines the HRPQ preload/cookie-scoping downgrade gap and enterprise TLS-inspecting proxy blind spots in post-quantum HTTPS migration, companion to the open-source [hrpq-gap-scan](https://github.com/sunilgentyala/hrpq-gap-scan) audit tool
@@ -147,6 +149,22 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 [LinkedIn share by Chinedum Amaechi, PhD](https://www.linkedin.com/posts/chinedum-amaechi-phd-mcpn-mncs-%C2%AE-44497b53_post-quantum-https-migration-faces-enterprise-activity-7483934501828632579-awZJ/): ML/NLP Researcher and Cybersecurity Lecturer, Nnamdi Azikiwe University (Nigeria), shares his SC World post-quantum HTTPS article with commentary that "the biggest obstacle to switching to post-quantum HTTPS isn't finding quantum-safe algorithms—it's the challenge of integrating them into today's web systems and enterprise environments"
 
 [THE SIGNAL — Mattei Systems Intelligence Brief](https://www.linkedin.com/pulse/signal-mariano-mattei-1lnfe/): LinkedIn newsletter, Mariano Mattei (Founder & Principal AI Architect, Mattei Systems), August 2026, weekly cybersecurity intelligence brief builds its Executive Insight and Recommended Action sections around his CSO Online OAuth client ID spoofing article, prescribing AADSTS700016 alert retooling for client-ID cardinality spikes as "the detection the OAuth spoofing piece prescribes"
+
+[LinkedIn share by Sarang Pokhare](https://www.linkedin.com/posts/sarang-pokhare-digital-marketing-iim-calcutta-alumni_4-million-fake-applications-and-one-blind-activity-7492564676770344960-euib/): IIM Calcutta alumnus, shares his CSO Online OAuth client ID spoofing article, reproducing its Figure 1 attack-and-detection workflow with attribution
+
+[NewesTek brief](https://newestek.com/?p=16586): NewesTek, August 2026, republishes his CSO Online OAuth client ID spoofing article's Figure 1 attack-and-detection workflow with attribution
+
+[World Programming Society repost](https://www.worldprogramming.org/posts/4-million-fake-applications-and-one-blind-spot-a-soc-playbook-for-oauth-client-id-spoofing-nwkpoq): DevOps channel, links back to his CSO Online OAuth client ID spoofing article as the original source
+
+[Threads share by @mcheung63](https://www.threads.com/@mcheung63/post/Db5QWl7k5TA/million-fake-applications-and-one-blind-spot-a-soc-playbook-for-o-auth-client/): shares his CSO Online OAuth client ID spoofing article
+
+[HazeTec brief](https://www.hazetec.com/briefs/20260810-4-million-fake-applications-and-one-blind-spot-a-soc-playbook-for-oauth-client.html): HazeTec, August 2026, summarizes his CSO Online OAuth client ID spoofing article, linking back to the original
+
+[LinkedIn share by Bill Genovese, CISSP ITIL](https://www.linkedin.com/posts/digitalcio_shadow-agents-how-it-leaders-must-govern-activity-7478247108022603776-l4ZB/): Digital CIO, shares his CIO.com Shadow Agents article alongside a discussion of local AI inference, warning that "as inference shifts to thousands of distributed laptops, centralized telemetry becomes non-existent"
+
+[LinkedIn share by Dr Cameron Black](https://www.linkedin.com/posts/mrcameronblack_shadow-agents-how-it-leaders-must-govern-activity-7482717212374614017-gV-W/): shares his CIO.com Shadow Agents article, describing headless AI agents operating without standard user logins as "invisible workers that are incredibly hard to monitor and audit"
+
+[LinkedIn share by Paul M Turner III](https://www.linkedin.com/posts/paulmturner3_ceo-coo-cio-activity-7479866799765921792-Ru9o/): Logically, cites his CIO.com Shadow Agents article as supporting evidence that organizations need to embed identity, security, and policy enforcement into AI agent architecture rather than treating governance as an afterthought
 
 ---
 
