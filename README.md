@@ -114,6 +114,8 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 
 [4 Million Fake Applications and One Blind Spot: A SOC Playbook for OAuth Client ID Spoofing](https://www.csoonline.com/article/4206750/4-million-fake-applications-and-one-blind-spot-a-soc-playbook-for-oauth-client-id-spoofing.html): CSO Online, August 2026, detection and response playbook for OAuth client ID spoofing campaigns enumerating Microsoft Entra ID accounts, covering client ID cardinality analysis and the AADSTS700016 detection signal
 
+[Post-quantum HTTPS migration faces enterprise browser challenges](https://www.scworld.com/perspective/post-quantum-https-migration-faces-enterprise-browser-challenges): SC World, July 2026, examines the HRPQ preload/cookie-scoping downgrade gap and enterprise TLS-inspecting proxy blind spots in post-quantum HTTPS migration, companion to the open-source [hrpq-gap-scan](https://github.com/sunilgentyala/hrpq-gap-scan) audit tool
+
 [1,800+ MCP Servers Exposed Without Authentication: How Zero Trust Can Secure the AI Agent Revolution](https://www.csoonline.com/article/4168979/1800-mcp-servers-exposed-without-authentication-how-zero-trust-can-secure-the-ai-agent-revolution.html): CSO Online, May 2026, warns that over 1,800 unauthenticated MCP servers expose enterprise AI infrastructure to critical security risks
 
 [MCP is the Backdoor Your Zero-Trust Architecture Forgot to Close](https://www.scworld.com/perspective/mcp-is-the-backdoor-your-zero-trust-architecture-forgot-to-close/): SC World, March 2026, analysis of MCP security attack vectors, hidden AI attack surface, and zero-trust mitigations
@@ -139,6 +141,10 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 [Zero-Trust AI Governance for Multi-Agent Systems](https://agentic-threat-tracker.com/incident/f34fe4ee00098a12515c82d359c09b4f0458a30b): Agentic Threat Tracker, 24 July 2026, incident-tracker entry on the CSA "Securing the Swarm" analysis, names his [AegisSwarm-Core](https://github.com/sunilgentyala/AegisSwarm-Core) proposal directly ("introduces AegisSwarm, a proposed open-source reference implementation for zero-trust multi-agent security")
 
 [MCP Breaks Zero Trust, Here's How to Fix It](https://www.pointguardai.com/blog/mcp-breaks-zero-trust-heres-how-to-fix-it): PointGuard AI, March 2026, CEO Pravin Kothari cites his [SC World MCP article](https://www.scworld.com/perspective/mcp-is-the-backdoor-your-zero-trust-architecture-forgot-to-close/) directly, stating "the author is right to call out MCP as a blind spot"
+
+[LinkedIn share by Anthony L.](https://www.linkedin.com/posts/allawr3_post-quantum-https-migration-faces-enterprise-activity-7481745217814003712-ZcpP/): CEO of Light Rider (ex-NSA, former US Army), shares his [SC World post-quantum HTTPS article](https://www.scworld.com/perspective/post-quantum-https-migration-faces-enterprise-browser-challenges)
+
+[LinkedIn share by Chinedum Amaechi, PhD](https://www.linkedin.com/posts/chinedum-amaechi-phd-mcpn-mncs-%C2%AE-44497b53_post-quantum-https-migration-faces-enterprise-activity-7483934501828632579-awZJ/): ML/NLP Researcher and Cybersecurity Lecturer, Nnamdi Azikiwe University (Nigeria), shares his SC World post-quantum HTTPS article with commentary that "the biggest obstacle to switching to post-quantum HTTPS isn't finding quantum-safe algorithms—it's the challenge of integrating them into today's web systems and enterprise environments"
 
 [THE SIGNAL — Mattei Systems Intelligence Brief](https://www.linkedin.com/pulse/signal-mariano-mattei-1lnfe/): LinkedIn newsletter, Mariano Mattei (Founder & Principal AI Architect, Mattei Systems), August 2026, weekly cybersecurity intelligence brief builds its Executive Insight and Recommended Action sections around his CSO Online OAuth client ID spoofing article, prescribing AADSTS700016 alert retooling for client-ID cardinality spikes as "the detection the OAuth spoofing piece prescribes"
 
