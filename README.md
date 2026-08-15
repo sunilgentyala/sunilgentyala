@@ -53,6 +53,8 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 
 [ARGUS](https://github.com/sunilgentyala/argus): Agentic multi-agent framework for autonomous LLM vulnerability discovery, CVSSv4.0 scoring, 8-framework compliance mapping, SARIF output, mapped to the OWASP LLM Top 10 (2025) [![Stars](https://img.shields.io/github/stars/sunilgentyala/argus?style=flat&color=gold)](https://github.com/sunilgentyala/argus)
 
+[genai-llm-pentest-harness](https://github.com/sunilgentyala/genai-llm-pentest-harness): Reference implementation of a GenAI/LLM/RAG pentest harness (mutate/sandbox/score/evidence loop), run against a real, deliberately vulnerable local RAG and tool-calling target, companion to a CSO Online pen-testing guide (forthcoming) [![Stars](https://img.shields.io/github/stars/sunilgentyala/genai-llm-pentest-harness?style=flat&color=gold)](https://github.com/sunilgentyala/genai-llm-pentest-harness)
+
 [MarkSentry](https://github.com/sunilgentyala/marksentry): Secure, local-first document-to-Markdown conversion with zero-trust input sanitization, multi-column PDF layout intelligence, LaTeX math conversion, and PII masking [![Stars](https://img.shields.io/github/stars/sunilgentyala/marksentry?style=flat&color=gold)](https://github.com/sunilgentyala/marksentry)
 
 [AEGIS](https://github.com/sunilgentyala/aegis-integrity): Open-source, offline, bias-aware academic integrity checker, plagiarism, AI detection, LLM watermarking, citation hallucination, and ghostwriting analysis [![Stars](https://img.shields.io/github/stars/sunilgentyala/aegis-integrity?style=flat&color=gold)](https://github.com/sunilgentyala/aegis-integrity)
