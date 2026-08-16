@@ -1,7 +1,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=sunilgentyala&style=flat-square&color=blue)](https://github.com/sunilgentyala)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunil-gentyala/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sunilgentyala.github.io)
-[![IEEE Badge](https://img.shields.io/badge/IEEE_Senior_Member-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://www.ieee.org/)
+[![IEEE Badge](https://img.shields.io/badge/IEEE_Senior_Member-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/author/445793536496057)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-2642-3479)
 [![CSA Badge](https://img.shields.io/badge/Cloud_Security_Alliance-Expert-005F9E?style=for-the-badge)](https://cloudsecurityalliance.org/)
 
@@ -52,6 +52,8 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 [ArchForge](https://sunilgentyala.github.io/archforge/): Open-source system design workbench with 60+ interactive patterns, a real-time capacity calculator, and AI/LLM architecture templates [![Stars](https://img.shields.io/github/stars/sunilgentyala/archforge?style=flat&color=gold)](https://github.com/sunilgentyala/archforge)
 
 [ARGUS](https://github.com/sunilgentyala/argus): Agentic multi-agent framework for autonomous LLM vulnerability discovery, CVSSv4.0 scoring, 8-framework compliance mapping, SARIF output, mapped to the OWASP LLM Top 10 (2025) (accepted, IEEE ICCVBIC 2026) [![Stars](https://img.shields.io/github/stars/sunilgentyala/argus?style=flat&color=gold)](https://github.com/sunilgentyala/argus)
+
+[genai-llm-pentest-harness](https://github.com/sunilgentyala/genai-llm-pentest-harness): Reference implementation of a GenAI/LLM/RAG pentest harness (mutate/sandbox/score/evidence loop), run against a real, deliberately vulnerable local RAG and tool-calling target, companion to a CSO Online pen-testing guide (forthcoming) [![Stars](https://img.shields.io/github/stars/sunilgentyala/genai-llm-pentest-harness?style=flat&color=gold)](https://github.com/sunilgentyala/genai-llm-pentest-harness)
 
 [MarkSentry](https://github.com/sunilgentyala/marksentry): Secure, local-first document-to-Markdown conversion with zero-trust input sanitization, multi-column PDF layout intelligence, LaTeX math conversion, and PII masking [![Stars](https://img.shields.io/github/stars/sunilgentyala/marksentry?style=flat&color=gold)](https://github.com/sunilgentyala/marksentry)
 
@@ -219,6 +221,7 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 - ISACA Professional Member, ID 2297870 (active through December 2026)
 - Cloud Security Alliance Expert Representative (HCLTech)
 - ORCID: [0009-0005-2642-3479](https://orcid.org/0009-0005-2642-3479)
+- IEEE Xplore Author Profile: [ieeexplore.ieee.org/author/445793536496057](https://ieeexplore.ieee.org/author/445793536496057)
 - Web of Science Researcher ID: PQA-0496-2026
 - BCS Fellow (Experiential route, completed)
 - Zenodo DOI: [10.5281/zenodo.19241166](https://doi.org/10.5281/zenodo.19241166)
