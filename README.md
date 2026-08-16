@@ -17,7 +17,7 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 
 - Lead Cybersecurity and AI Security Consultant at HCLTech, managing Fortune 500 client security programs
 - IEEE Senior Member (No. 101760715) with ORCID 0009-0005-2642-3479
-- 9 peer-reviewed IEEE conference papers accepted in 2026, 3 published on IEEE Xplore (CADLP, SybilShield-Core, IMM-CI/Identity 3.0)
+- 12 peer-reviewed IEEE conference papers accepted in 2026, 4 published on IEEE Xplore (CADLP, SybilShield-Core, IMM-CI/Identity 3.0, ContextGuard Supply Chain)
 - Applied research published with the Cloud Security Alliance on zero-trust architectures for multi-agent AI (June 2026)
 - 2026 Cybersecurity Excellence Awards Bronze, Cybersecurity Professional of the Year
 - Shortlisted, 2026 Cyber Security Influencer of the Year (Cyber Security Awards)
@@ -39,7 +39,7 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 
 [AegisSwarm-Core](https://sunilgentyala.github.io/AegisSwarm-Core/): Zero-trust governance for autonomous multi-agent AI networks using SPIFFE/SPIRE identity, OPA/Rego policy-as-code, and semantic guardrail gateways, mapped to the CSA Agentic Trust Framework and OWASP Top 10 Agentic Risks. Companion research published by the [Cloud Security Alliance](https://cloudsecurityalliance.org/blog/2026/06/24/securing-the-swarm-governance-attack-surfaces-and-zero-trust-architectures-in-multi-agent-ai-environments) [![Stars](https://img.shields.io/github/stars/sunilgentyala/AegisSwarm-Core?style=flat&color=gold)](https://github.com/sunilgentyala/AegisSwarm-Core)
 
-[TRACE-MAS](https://sunilgentyala.github.io/TRACE-MAS/): Unified cryptographic framework securing multi-agent LLM pipelines against cascading drift, identity spoofing, prompt injection, and temporal adversarial attacks [![Stars](https://img.shields.io/github/stars/sunilgentyala/TRACE-MAS?style=flat&color=gold)](https://github.com/sunilgentyala/TRACE-MAS)
+[TRACE-MAS](https://sunilgentyala.github.io/TRACE-MAS/): Unified cryptographic framework securing multi-agent LLM pipelines against cascading drift, identity spoofing, prompt injection, and temporal adversarial attacks (accepted, IEEE ICSCSA 2026) [![Stars](https://img.shields.io/github/stars/sunilgentyala/TRACE-MAS?style=flat&color=gold)](https://github.com/sunilgentyala/TRACE-MAS)
 
 [SybilShield-Core](https://sunilgentyala.github.io/SybilShield-Core/): Composite trust scoring framework for Sybil attack mitigation in permissionless blockchain networks (published, [IEEE Xplore](https://ieeexplore.ieee.org/document/11604799), IEEE ICICDS 2026) [![Stars](https://img.shields.io/github/stars/sunilgentyala/SybilShield-Core?style=flat&color=gold)](https://github.com/sunilgentyala/SybilShield-Core)
 
@@ -51,7 +51,7 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 
 [ArchForge](https://sunilgentyala.github.io/archforge/): Open-source system design workbench with 60+ interactive patterns, a real-time capacity calculator, and AI/LLM architecture templates [![Stars](https://img.shields.io/github/stars/sunilgentyala/archforge?style=flat&color=gold)](https://github.com/sunilgentyala/archforge)
 
-[ARGUS](https://github.com/sunilgentyala/argus): Agentic multi-agent framework for autonomous LLM vulnerability discovery, CVSSv4.0 scoring, 8-framework compliance mapping, SARIF output, mapped to the OWASP LLM Top 10 (2025) [![Stars](https://img.shields.io/github/stars/sunilgentyala/argus?style=flat&color=gold)](https://github.com/sunilgentyala/argus)
+[ARGUS](https://github.com/sunilgentyala/argus): Agentic multi-agent framework for autonomous LLM vulnerability discovery, CVSSv4.0 scoring, 8-framework compliance mapping, SARIF output, mapped to the OWASP LLM Top 10 (2025) (accepted, IEEE ICCVBIC 2026) [![Stars](https://img.shields.io/github/stars/sunilgentyala/argus?style=flat&color=gold)](https://github.com/sunilgentyala/argus)
 
 [MarkSentry](https://github.com/sunilgentyala/marksentry): Secure, local-first document-to-Markdown conversion with zero-trust input sanitization, multi-column PDF layout intelligence, LaTeX math conversion, and PII masking [![Stars](https://img.shields.io/github/stars/sunilgentyala/marksentry?style=flat&color=gold)](https://github.com/sunilgentyala/marksentry)
 
@@ -74,7 +74,7 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 | [model-provenance-guard](https://github.com/sunilgentyala/model-provenance-guard) | Cryptographic provenance verification for ML model artifacts (Safetensors, GGUF, PyTorch) in CI/CD pipelines |
 | [PRANIDHI](https://github.com/sunilgentyala/PRANIDHI) | Pre-prompt coaching framework for enterprise AI, teaches safe prompt rewriting instead of blocking |
 | [ReasonTree](https://github.com/sunilgentyala/ReasonTree) | Reasoning-based document retrieval using hierarchical tree indexing, no vector database required |
-| [cyberfuse-ci](https://github.com/sunilgentyala/cyberfuse-ci) | Adversarially resilient vulnerability detection via heterogeneous multi-source data fusion and LLM-augmented reasoning |
+| [cyberfuse-ci](https://github.com/sunilgentyala/cyberfuse-ci) | Adversarially resilient vulnerability detection via heterogeneous multi-source data fusion and LLM-augmented reasoning (accepted, IEEE ICETCI 2026) |
 | [imm-ci-framework](https://github.com/sunilgentyala/imm-ci-framework) | IMM-CI self-assessment tool, companion to the IEEE SmartNets 2026 paper (published, [IEEE Xplore](https://ieeexplore.ieee.org/document/11604842)) |
 | [awesome-ai-security](https://github.com/sunilgentyala/awesome-ai-security) | Curated collection of resources related to AI security |
 
@@ -95,6 +95,9 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 | AdaptFlow: A Self-Optimizing AI-Driven Data Pipeline Architecture for Real-Time Inference at Scale | IEEE ICETM 2026 |
 | Temporal Probabilistic Modeling with Uncertainty-Aware LSTM Networks for Self-Aware Fault Detection and Prognostics in Autonomous Aerospace Systems | IEEE MetroAeroSpace 2026 |
 | Adaptive Neural Control for Multi-UAV Swarm Coordination: Trajectory Tracking, Collision Avoidance, and Wind Disturbance Rejection | IEEE MetroAeroSpace 2026 |
+| ARGUS: An Agentic Security Validation Framework for Retrieval-Augmented and Tool-Enabled Large Language Model Systems | IEEE ICCVBIC 2026, Paper CMSS-0147 |
+| A Unified Mathematical Framework for Secure Multi-Agent Large Language Model Pipelines (TRACE-MAS) | IEEE ICSCSA 2026, Paper ICSCSA-168 |
+| CyberFuse-CI: Adversarially Resilient Vulnerability Detection Through Heterogeneous Multi-Source Data Fusion and LLM-Augmented Reasoning | IEEE ICETCI 2026, EDAS #1571273793 |
 
 #### Journal Publications & Preprints
 
