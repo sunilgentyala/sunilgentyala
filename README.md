@@ -223,6 +223,6 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 - ORCID: [0009-0005-2642-3479](https://orcid.org/0009-0005-2642-3479)
 - IEEE Xplore Author Profile: [ieeexplore.ieee.org/author/445793536496057](https://ieeexplore.ieee.org/author/445793536496057)
 - Web of Science Researcher ID: PQA-0496-2026
-- BCS Fellow (Experiential route, completed)
+- BCS Fellowship (Experiential route) — application under final assessment
 - Zenodo DOI: [10.5281/zenodo.19241166](https://doi.org/10.5281/zenodo.19241166)
 - #FoundryExpert across IDG/Foundry publications (CSO Online, CIO.com, Computerworld)
