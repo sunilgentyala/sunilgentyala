@@ -17,7 +17,7 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 
 - Lead Cybersecurity and AI Security Consultant at HCLTech, managing Fortune 500 client security programs
 - IEEE Senior Member (No. 101760715) with ORCID 0009-0005-2642-3479
-- 12 peer-reviewed IEEE conference papers accepted in 2026, 4 published on IEEE Xplore (CADLP, SybilShield-Core, IMM-CI/Identity 3.0, ContextGuard Supply Chain)
+- 12 peer-reviewed IEEE conference papers accepted in 2026, 6 published on IEEE Xplore (CADLP, SybilShield-Core, IMM-CI/Identity 3.0, ContextGuard Supply Chain, and two IEEE MetroAeroSpace 2026 papers)
 - Applied research published with the Cloud Security Alliance on zero-trust architectures for multi-agent AI (June 2026)
 - 2026 Cybersecurity Excellence Awards Bronze, Cybersecurity Professional of the Year
 - Shortlisted, 2026 Cyber Security Influencer of the Year (Cyber Security Awards)
@@ -95,8 +95,8 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 | Governing Heterogeneous API Gateway Estates Through Policy-as-Code: An Engineering Management Perspective | IEEE TEMSCON GLOBAL 2026 |
 | [A Zero-Trust Supply Chain Security Framework for Model Context Protocol-Based AI Systems](https://ieeexplore.ieee.org/document/11619741) | IEEE ICCBI 2026, DOI: [10.1109/ICCBI68589.2026.11619741](https://ieeexplore.ieee.org/document/11619741) (published, IEEE Xplore) |
 | AdaptFlow: A Self-Optimizing AI-Driven Data Pipeline Architecture for Real-Time Inference at Scale | IEEE ICETM 2026 |
-| Temporal Probabilistic Modeling with Uncertainty-Aware LSTM Networks for Self-Aware Fault Detection and Prognostics in Autonomous Aerospace Systems | IEEE MetroAeroSpace 2026 |
-| Adaptive Neural Control for Multi-UAV Swarm Coordination: Trajectory Tracking, Collision Avoidance, and Wind Disturbance Rejection | IEEE MetroAeroSpace 2026 |
+| [Temporal Probabilistic Modeling with Uncertainty-Aware LSTM Networks for Self-Aware Fault Detection and Prognostics in Autonomous Aerospace Systems](https://ieeexplore.ieee.org/document/11646653) | IEEE MetroAeroSpace 2026, DOI: [10.1109/MetroAeroSpace69299.2026.11646653](https://ieeexplore.ieee.org/document/11646653) (published, IEEE Xplore) |
+| [Adaptive Neural Control for Multi-UAV Swarm Coordination: Trajectory Tracking, Collision Avoidance, and Wind Disturbance Rejection](https://ieeexplore.ieee.org/document/11646672) | IEEE MetroAeroSpace 2026, DOI: [10.1109/MetroAeroSpace69299.2026.11646672](https://ieeexplore.ieee.org/document/11646672) (published, IEEE Xplore) |
 | ARGUS: An Agentic Security Validation Framework for Retrieval-Augmented and Tool-Enabled Large Language Model Systems | IEEE ICCVBIC 2026, Paper CMSS-0147 |
 | A Unified Mathematical Framework for Secure Multi-Agent Large Language Model Pipelines (TRACE-MAS) | IEEE ICSCSA 2026, Paper ICSCSA-168 |
 | CyberFuse-CI: Adversarially Resilient Vulnerability Detection Through Heterogeneous Multi-Source Data Fusion and LLM-Augmented Reasoning | IEEE ICETCI 2026, EDAS #1571273793 |
