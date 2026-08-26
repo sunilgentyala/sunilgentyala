@@ -17,7 +17,7 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 
 - Lead Cybersecurity and AI Security Consultant at HCLTech, managing Fortune 500 client security programs
 - IEEE Senior Member (No. 101760715) with ORCID 0009-0005-2642-3479
-- 12 peer-reviewed IEEE conference papers accepted in 2026, 6 published on IEEE Xplore (CADLP, SybilShield-Core, IMM-CI/Identity 3.0, ContextGuard Supply Chain, and two IEEE MetroAeroSpace 2026 papers)
+- 12 peer-reviewed IEEE conference papers accepted in 2026, 7 published on IEEE Xplore (CADLP, SybilShield-Core, IMM-CI/Identity 3.0, ContextGuard Supply Chain, AdaptFlow, and two IEEE MetroAeroSpace 2026 papers)
 - Applied research published with the Cloud Security Alliance on zero-trust architectures for multi-agent AI (June 2026)
 - 2026 Cybersecurity Excellence Awards Bronze, Cybersecurity Professional of the Year
 - Shortlisted, 2026 Cyber Security Influencer of the Year (Cyber Security Awards)
@@ -88,13 +88,13 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 
 | Paper | Venue |
 |---|---|
-| [Contextual Sensitivity Classification and Utility-Preserving Redaction for Enterprise LLM Deployments (CADLP)](https://ieeexplore.ieee.org/abstract/document/11570292) | IEEE ICIRCA 2026 (published, IEEE Xplore) |
+| [A Multi-Stage NLP Framework for Enterprise Data Protection in Public LLM Interactions (CADLP)](https://ieeexplore.ieee.org/abstract/document/11570292) | IEEE ICIRCA 2026, DOI: [10.1109/icirca69024.2026.11570292](https://ieeexplore.ieee.org/abstract/document/11570292) (published, IEEE Xplore) |
 | [SybilShield-Core: A Composite Trust Scoring Framework for Sybil Attack Mitigation in Permissionless Blockchain Networks](https://ieeexplore.ieee.org/document/11604799) | IEEE ICICDS 2026, Paper ID ICICDS-690 (published, IEEE Xplore) |
 | A Post-Quantum Security Framework for Model Context Protocol Using ContextGuard | IEEE ICSCSA 2026 |
 | [The Metamorphosis of Access: Strategic Imperatives for Identity 3.0 and Zero Trust Integration in Critical Infrastructure](https://ieeexplore.ieee.org/document/11604842) | IEEE SmartNets 2026, EDAS #1571252869, DOI: [10.1109/SmartNets69662.2026.11604842](https://ieeexplore.ieee.org/document/11604842), introduces the IMM-CI maturity model (published, IEEE Xplore) |
 | Governing Heterogeneous API Gateway Estates Through Policy-as-Code: An Engineering Management Perspective | IEEE TEMSCON GLOBAL 2026 |
 | [A Zero-Trust Supply Chain Security Framework for Model Context Protocol-Based AI Systems](https://ieeexplore.ieee.org/document/11619741) | IEEE ICCBI 2026, DOI: [10.1109/ICCBI68589.2026.11619741](https://ieeexplore.ieee.org/document/11619741) (published, IEEE Xplore) |
-| AdaptFlow: A Self-Optimizing AI-Driven Data Pipeline Architecture for Real-Time Inference at Scale | IEEE ICETM 2026 |
+| [AdaptFlow: A Self-Optimizing AI-Driven Data Pipeline Architecture for Real-Time Inference at Scale](https://ieeexplore.ieee.org/document/11648130) | IEEE ICETM 2026, DOI: [10.1109/ICETM68138.2026.11648130](https://ieeexplore.ieee.org/document/11648130) (published, IEEE Xplore) |
 | [Temporal Probabilistic Modeling with Uncertainty-Aware LSTM Networks for Self-Aware Fault Detection and Prognostics in Autonomous Aerospace Systems](https://ieeexplore.ieee.org/document/11646653) | IEEE MetroAeroSpace 2026, DOI: [10.1109/MetroAeroSpace69299.2026.11646653](https://ieeexplore.ieee.org/document/11646653) (published, IEEE Xplore) |
 | [Adaptive Neural Control for Multi-UAV Swarm Coordination: Trajectory Tracking, Collision Avoidance, and Wind Disturbance Rejection](https://ieeexplore.ieee.org/document/11646672) | IEEE MetroAeroSpace 2026, DOI: [10.1109/MetroAeroSpace69299.2026.11646672](https://ieeexplore.ieee.org/document/11646672) (published, IEEE Xplore) |
 | ARGUS: An Agentic Security Validation Framework for Retrieval-Augmented and Tool-Enabled Large Language Model Systems | IEEE ICCVBIC 2026, Paper CMSS-0147 |
