@@ -125,19 +125,31 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 
 [4 Million Fake Applications and One Blind Spot: A SOC Playbook for OAuth Client ID Spoofing](https://www.csoonline.com/article/4206750/4-million-fake-applications-and-one-blind-spot-a-soc-playbook-for-oauth-client-id-spoofing.html): CSO Online, August 2026, detection and response playbook for OAuth client ID spoofing campaigns enumerating Microsoft Entra ID accounts, covering client ID cardinality analysis and the AADSTS700016 detection signal
 
+[The Ghost Applications: How OAuth Client ID Spoofing Enumerates Microsoft Entra Accounts Without a Successful Sign-In](https://cloudsecurityalliance.org/blog/2026/08/19/the-ghost-applications-how-oauth-client-id-spoofing-enumerates-microsoft-entra-accounts-without-a-successful-sign-in): Cloud Security Alliance, August 2026, companion piece to the CSO Online OAuth client ID spoofing article above, examining the AADSTS700016 detection signal and Entra ID account enumeration technique
+
 [Post-quantum HTTPS migration faces enterprise browser challenges](https://www.scworld.com/perspective/post-quantum-https-migration-faces-enterprise-browser-challenges): SC World, July 2026, examines the HRPQ preload/cookie-scoping downgrade gap and enterprise TLS-inspecting proxy blind spots in post-quantum HTTPS migration, companion to the open-source [hrpq-gap-scan](https://github.com/sunilgentyala/hrpq-gap-scan) audit tool
 
 [1,800+ MCP Servers Exposed Without Authentication: How Zero Trust Can Secure the AI Agent Revolution](https://www.csoonline.com/article/4168979/1800-mcp-servers-exposed-without-authentication-how-zero-trust-can-secure-the-ai-agent-revolution.html): CSO Online, May 2026, warns that over 1,800 unauthenticated MCP servers expose enterprise AI infrastructure to critical security risks
 
+[Post-Quantum Cryptographic Migration for Cloud-Native Zero-Trust Architectures: What CSA Members Need to Deploy Now](https://cloudsecurityalliance.org/blog/2026/04/06/post-quantum-cryptographic-migration-for-cloud-native-zero-trust-architectures-what-csa-members-need-to-deploy-now): Cloud Security Alliance, April 2026, migration guidance for CSA member organizations moving cloud-native zero-trust architectures to post-quantum cryptography
+
 [MCP is the Backdoor Your Zero-Trust Architecture Forgot to Close](https://www.scworld.com/perspective/mcp-is-the-backdoor-your-zero-trust-architecture-forgot-to-close/): SC World, March 2026, analysis of MCP security attack vectors, hidden AI attack surface, and zero-trust mitigations
+
+[The Agentic Trust Deficit: Why MCP's Authentication Vacuum Demands a New Security Paradigm](https://cloudsecurityalliance.org/blog/2026/03/24/the-agentic-trust-deficit-why-mcp-s-authentication-vacuum-demands-a-new-security-paradigm): Cloud Security Alliance, March 2026, examines the authentication gap in Model Context Protocol deployments and proposes a zero-trust paradigm to close it
 
 [The Sentinel Intelligence: A CISO's Guide to Sovereign Security in the Age of AGI](https://www.cyberdefensemagazine.com/the-sentinel-intelligence-a-cisos-guide-to-sovereign-security-in-the-age-of-agi/): Cyber Defense Magazine, February 2026, introduces the Sentinel Intelligence (SI) architectural framework for countering agentic AI threats
 
 [Why 2025's Agentic AI Boom Is a CISO's Worst Nightmare](https://www.csoonline.com/article/4132860/why-2025s-agentic-ai-boom-is-a-cisos-worst-nightmare.html): CSO Online, February 2026, examines indirect prompt injection, memory poisoning, and agentic denial-of-service exploits in enterprise AI deployments
 
+[Reimagining the Browser as a Critical Policy Enforcement Point: A Zero-Trust Security Architecture for Modern Enterprises](https://cloudsecurityalliance.org/blog/2026/01/14/reimagining-the-browser-as-a-critical-policy-enforcement-point-a-zero-trust-security-architecture-for-modern-enterprises): Cloud Security Alliance, January 2026, argues for the browser as a zero-trust policy enforcement point in modern enterprise security architectures
+
 [Hardening Browser Security with Zero-Trust Controls](https://www.csoonline.com/article/4101173/hardening-browser-security-with-zero-trust-controls.html): CSO Online, December 2025, six-principle browser-centric zero-trust framework with NIST SP 800-207 and CISA Maturity Model alignment
 
+[Navigating the Liminal Edge of AI Security: Deconstructing Prompt Injection, Model Poisoning, and Adversarial Perturbations in the Cognitive Cyber Domain](https://cloudsecurityalliance.org/blog/2025/12/01/navigating-the-liminal-edge-of-ai-security-deconstructing-prompt-injection-model-poisoning-and-adversarial-perturbations-in-the-cognitive-cyber-domain): Cloud Security Alliance, December 2025, deconstructs prompt injection, model poisoning, and adversarial perturbation threats across the AI security domain
+
 [Beyond Silos: How DDI-AI Integration Is Redefining Cyber Resilience](https://www.csoonline.com/article/4087578/beyond-silos-how-ddi-ai-integration-is-redefining-cyber-resilience.html): CSO Online, November 2025, how DDI-AI integration transforms cybersecurity from reactive defense to predictive, automated threat detection
+
+[Securing Application-to-Application Traffic with AI/AGI/ML-Powered Virtual Firewalls: A Comprehensive Framework for Multi-Cloud, Hybrid, and On-Premises Environments](https://cloudsecurityalliance.org/blog/2025/11/21/securing-application-to-application-traffic-with-ai-agi-ml-powered-virtual-firewalls-a-comprehensive-framework-for-multi-cloud-hybrid-and-on-premises-environments): Cloud Security Alliance, November 2025, comprehensive framework for AI/ML-powered virtual firewalls securing application-to-application traffic across multi-cloud, hybrid, and on-premises environments
 
 #### Media Coverage & Podcast Citations
 
