@@ -141,6 +141,8 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 
 #### Media Coverage & Podcast Citations
 
+[Post-Quantum Cryptography Key Management — release announcement](https://www.linkedin.com/feed/update/urn:li:activity:7500162418845585409/): LinkedIn, Cloud Security Alliance (official account), August 2026, CSA's own comment thanks its "subject matter reviewers who always help us improve our work," naming Sunil Gentyala directly alongside the review team
+
 [Zscaler-SquareX Deal Boosts Zero Trust, Secure Browsing Capabilities](https://www.darkreading.com/remote-workforce/zscaler-squarex-deal-boosts-zero-trust-secure-browsing-capabilities): Dark Reading, expert commentary on browser-centric enforcement architecture and browser zero-trust adoption
 
 [Non-Stop Agentic AI Action Has Teams Assembling to Face the Threat](https://www.biometricupdate.com/202605/non-stop-agentic-ai-action-has-teams-assembling-to-face-the-threat): BiometricUpdate.com, May 2026, quoted on enterprise AI agent infrastructure security risks and deployment security gaps
