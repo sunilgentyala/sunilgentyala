@@ -115,6 +115,10 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 
 [Securing the Swarm: Governance, Attack Surfaces, and Zero-Trust Architectures in Multi-Agent AI Environments](https://cloudsecurityalliance.org/blog/2026/06/24/securing-the-swarm-governance-attack-surfaces-and-zero-trust-architectures-in-multi-agent-ai-environments): Cloud Security Alliance, June 2026, reference implementation in [AegisSwarm-Core](https://github.com/sunilgentyala/AegisSwarm-Core)
 
+[Navigating Identity and Access Management (IAM): Standards and Protocols](https://cloudsecurityalliance.org/artifacts/navigating-identity-and-access-management-iam): Cloud Security Alliance, published July 2026, credited as reviewer in the Acknowledgments
+
+[Post-Quantum Cryptography Key Management](https://cloudsecurityalliance.org/artifacts/post-quantum-cryptography-key-management): Cloud Security Alliance, published August 2026, credited as reviewer in the Acknowledgments
+
 #### Industry Articles
 
 [Shadow Agents: How IT Leaders Must Govern Headless AI Before It Breaks the Enterprise](https://www.cio.com/article/4191250/shadow-agents-how-it-leaders-must-govern-headless-ai-before-it-breaks-the-enterprise.html): CIO.com, July 2026, argues IT leaders must establish governance infrastructure, including prompt management, guardrails, and runtime isolation, to track and control autonomous AI agents operating invisibly within enterprise systems before security incidents occur
