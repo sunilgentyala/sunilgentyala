@@ -1,3 +1,5 @@
+<div align="center">
+
 [![Profile Views](https://komarev.com/ghpvc/?username=sunilgentyala&style=flat-square&color=blue)](https://github.com/sunilgentyala)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunil-gentyala/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sunilgentyala.github.io)
@@ -5,9 +7,13 @@
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-2642-3479)
 [![CSA Badge](https://img.shields.io/badge/Cloud_Security_Alliance-Expert-005F9E?style=for-the-badge)](https://cloudsecurityalliance.org/)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00629B&center=true&vCenter=true&width=800&lines=Lead+Cybersecurity+%26+AI+Security+Consultant;IEEE+Senior+Member+%7C+12%2B+Peer-Reviewed+Papers+in+2026;Zero-Trust+Frameworks+for+Agentic+AI+%26+MCP+Security;Open+Source%3A+ContextGuard+%C2%B7+GSH+Framework+%C2%B7+AegisSwarm-Core)](https://github.com/sunilgentyala)
+
+</div>
+
 ---
 
-Sunil Gentyala is a Lead Cybersecurity and AI Security Consultant at HCLTech, where he leads an 11-person security team serving Fortune 500 clients including Uber, Disney, and Royal Caribbean. He serves as HCLTech's designated expert representative to the Cloud Security Alliance and is Security Architect and Framework Designer for HCLTech's AIDefendX initiative.
+Sunil Gentyala is a Lead Cybersecurity and AI Security Consultant at HCLTech. He serves as HCLTech's designated expert representative to the Cloud Security Alliance and is Security Architect and Framework Designer for HCLTech's AIDefendX initiative.
 
 His research spans adversarial machine learning, Model Context Protocol (MCP) security, post-quantum cryptography, zero-knowledge proofs, and agentic AI governance. He is an IEEE Senior Member (No. 101760715), an active ISACA Professional Member, and holds the 2026 Cybersecurity Excellence Awards Bronze (Cybersecurity Professional of the Year).
 
@@ -230,6 +236,14 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 ### GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sunilgentyala&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=sunilgentyala&theme=onedark&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sunilgentyala/sunilgentyala/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sunilgentyala/sunilgentyala/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/sunilgentyala/sunilgentyala/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
