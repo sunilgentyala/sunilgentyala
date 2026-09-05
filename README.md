@@ -238,7 +238,7 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sunilgentyala&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=sunilgentyala&theme=onedark&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://raw.githubusercontent.com/sunilgentyala/sunilgentyala/output/trophy.svg)](https://github.com/ryo-ma/github-profile-trophy)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sunilgentyala/sunilgentyala/output/github-contribution-grid-snake-dark.svg" />
