@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate profile assets (snake + trophy)
 
 on:
   schedule:
@@ -21,6 +21,18 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Generate trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          username: sunilgentyala
+          file: dist/trophy.svg
+          theme: onedark
+          max-cols: "7"
+          max-rows: "1"
+          no-frame: "true"
+          no-background: "true"
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:

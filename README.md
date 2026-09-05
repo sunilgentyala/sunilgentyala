@@ -7,7 +7,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-2642-3479)
 [![CSA Badge](https://img.shields.io/badge/Cloud_Security_Alliance-Expert-005F9E?style=for-the-badge)](https://cloudsecurityalliance.org/)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00629B&center=true&vCenter=true&width=800&lines=Lead+Cybersecurity+%26+AI+Security+Consultant;IEEE+Senior+Member+%7C+12%2B+Peer-Reviewed+Papers+in+2026;Zero-Trust+Frameworks+for+Agentic+AI+%26+MCP+Security;Open+Source%3A+ContextGuard+%C2%B7+GSH+Framework+%C2%B7+AegisSwarm-Core)](https://github.com/sunilgentyala)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00629B&center=true&vCenter=true&width=800&lines=Lead+Cybersecurity+%26+AI+Security+Consultant;IEEE+Senior+Member+%7C+13%2B+Peer-Reviewed+Papers+in+2026;Zero-Trust+Frameworks+for+Agentic+AI+%26+MCP+Security;Open+Source%3A+ContextGuard+%C2%B7+GSH+Framework+%C2%B7+AegisSwarm-Core)](https://github.com/sunilgentyala)
 
 </div>
 
@@ -23,7 +23,7 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 
 - Lead Cybersecurity and AI Security Consultant at HCLTech, managing Fortune 500 client security programs
 - IEEE Senior Member (No. 101760715) with ORCID 0009-0005-2642-3479
-- 12 peer-reviewed IEEE conference papers accepted in 2026, 7 published on IEEE Xplore (CADLP, SybilShield-Core, IMM-CI/Identity 3.0, ContextGuard Supply Chain, AdaptFlow, and two IEEE MetroAeroSpace 2026 papers)
+- 13 peer-reviewed IEEE/CIBB conference papers accepted in 2026, 7 published on IEEE Xplore (CADLP, SybilShield-Core, IMM-CI/Identity 3.0, ContextGuard Supply Chain, AdaptFlow, and two IEEE MetroAeroSpace 2026 papers)
 - Applied research published with the Cloud Security Alliance on zero-trust architectures for multi-agent AI (June 2026)
 - 2026 Cybersecurity Excellence Awards Bronze, Cybersecurity Professional of the Year
 - Shortlisted, 2026 Cyber Security Influencer of the Year (Cyber Security Awards)
@@ -106,6 +106,7 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 | ARGUS: An Agentic Security Validation Framework for Retrieval-Augmented and Tool-Enabled Large Language Model Systems | IEEE ICCVBIC 2026, Paper CMSS-0147 |
 | A Unified Mathematical Framework for Secure Multi-Agent Large Language Model Pipelines (TRACE-MAS) | IEEE ICSCSA 2026, Paper ICSCSA-168 |
 | CyberFuse-CI: Adversarially Resilient Vulnerability Detection Through Heterogeneous Multi-Source Data Fusion and LLM-Augmented Reasoning | IEEE ICETCI 2026, EDAS #1571273793 |
+| Quantum-Assisted Clinical Risk Factor Selection for Diabetes Readmission Prediction | CIBB 2026, Quantum AI for Bioinformatics track (QAOA on a 54-qubit superconducting processor, with Floriano Caprio, Matteo Tortora, and Paolo Soda) |
 
 #### Journal Publications & Preprints
 
