@@ -59,7 +59,7 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 
 [ARGUS](https://github.com/sunilgentyala/argus): Agentic multi-agent framework for autonomous LLM vulnerability discovery, CVSSv4.0 scoring, 8-framework compliance mapping, SARIF output, mapped to the OWASP LLM Top 10 (2025) (accepted, IEEE ICCVBIC 2026) [![Stars](https://img.shields.io/github/stars/sunilgentyala/argus?style=flat&color=gold)](https://github.com/sunilgentyala/argus)
 
-[genai-llm-pentest-harness](https://github.com/sunilgentyala/genai-llm-pentest-harness): Reference implementation of a GenAI/LLM/RAG pentest harness (mutate/sandbox/score/evidence loop), run against a real, deliberately vulnerable local RAG and tool-calling target, companion to a CSO Online pen-testing guide (forthcoming) [![Stars](https://img.shields.io/github/stars/sunilgentyala/genai-llm-pentest-harness?style=flat&color=gold)](https://github.com/sunilgentyala/genai-llm-pentest-harness)
+[genai-llm-pentest-harness](https://github.com/sunilgentyala/genai-llm-pentest-harness): Reference implementation of a GenAI/LLM/RAG pentest harness (mutate/sandbox/score/evidence loop), run against a real, deliberately vulnerable local RAG and tool-calling target, companion to his [CSO Online pen-testing guide](https://www.csoonline.com/article/4219801/when-the-prompt-becomes-the-payload-a-practical-pen-testing-guide-for-genai-llm-and-rag-applications.html) [![Stars](https://img.shields.io/github/stars/sunilgentyala/genai-llm-pentest-harness?style=flat&color=gold)](https://github.com/sunilgentyala/genai-llm-pentest-harness)
 
 [MarkSentry](https://github.com/sunilgentyala/marksentry): Secure, local-first document-to-Markdown conversion with zero-trust input sanitization, multi-column PDF layout intelligence, LaTeX math conversion, and PII masking [![Stars](https://img.shields.io/github/stars/sunilgentyala/marksentry?style=flat&color=gold)](https://github.com/sunilgentyala/marksentry)
 
@@ -128,6 +128,8 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 
 #### Industry Articles
 
+[When the Prompt Becomes the Payload: A Practical Pen-Testing Guide for GenAI, LLM and RAG Applications](https://www.csoonline.com/article/4219801/when-the-prompt-becomes-the-payload-a-practical-pen-testing-guide-for-genai-llm-and-rag-applications.html): CSO Online, September 2026, a practical pen-testing methodology for GenAI/LLM/RAG applications, framing vulnerabilities as attack chains across retrieval, identity, tools, and business workflows rather than isolated jailbreak tests; companion reference implementation: [genai-llm-pentest-harness](https://github.com/sunilgentyala/genai-llm-pentest-harness)
+
 [Shadow Agents: How IT Leaders Must Govern Headless AI Before It Breaks the Enterprise](https://www.cio.com/article/4191250/shadow-agents-how-it-leaders-must-govern-headless-ai-before-it-breaks-the-enterprise.html): CIO.com, July 2026, argues IT leaders must establish governance infrastructure, including prompt management, guardrails, and runtime isolation, to track and control autonomous AI agents operating invisibly within enterprise systems before security incidents occur
 
 [4 Million Fake Applications and One Blind Spot: A SOC Playbook for OAuth Client ID Spoofing](https://www.csoonline.com/article/4206750/4-million-fake-applications-and-one-blind-spot-a-soc-playbook-for-oauth-client-id-spoofing.html): CSO Online, August 2026, detection and response playbook for OAuth client ID spoofing campaigns enumerating Microsoft Entra ID accounts, covering client ID cardinality analysis and the AADSTS700016 detection signal
@@ -159,6 +161,8 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 [Securing Application-to-Application Traffic with AI/AGI/ML-Powered Virtual Firewalls: A Comprehensive Framework for Multi-Cloud, Hybrid, and On-Premises Environments](https://cloudsecurityalliance.org/blog/2025/11/21/securing-application-to-application-traffic-with-ai-agi-ml-powered-virtual-firewalls-a-comprehensive-framework-for-multi-cloud-hybrid-and-on-premises-environments): Cloud Security Alliance, November 2025, comprehensive framework for AI/ML-powered virtual firewalls securing application-to-application traffic across multi-cloud, hybrid, and on-premises environments
 
 #### Media Coverage & Podcast Citations
+
+[When the Prompt Becomes the Payload — CSO Online promo post](https://www.linkedin.com/feed/update/urn:li:activity:7503480319363346433/): LinkedIn, CSO Online (official account), September 2026, promoting his GenAI/LLM/RAG pen-testing guide; CSO Online editor Ed Murray engaged directly in the comments, asking how conventional AppSec testing should adapt to probabilistic LLM outputs without generating false positives
 
 [Post-Quantum Cryptography Key Management — release announcement](https://www.linkedin.com/feed/update/urn:li:activity:7500162418845585409/): LinkedIn, Cloud Security Alliance (official account), August 2026, CSA's own comment thanks its "subject matter reviewers who always help us improve our work," naming Sunil Gentyala directly alongside the review team
 
