@@ -7,9 +7,25 @@
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-2642-3479)
 [![CSA Badge](https://img.shields.io/badge/Cloud_Security_Alliance-Expert-005F9E?style=for-the-badge)](https://cloudsecurityalliance.org/)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00629B&center=true&vCenter=true&width=800&lines=Lead+Cybersecurity+%26+AI+Security+Consultant;IEEE+Senior+Member+%7C+13%2B+Peer-Reviewed+Papers+in+2026;Zero-Trust+Frameworks+for+Agentic+AI+%26+MCP+Security;Open+Source%3A+ContextGuard+%C2%B7+GSH+Framework+%C2%B7+AegisSwarm-Core)](https://github.com/sunilgentyala)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00629B&center=true&vCenter=true&width=800&lines=Open-Source+Security+Tools+for+Agentic+AI+%26+MCP;Creator%3A+GSH+Framework+%C2%B7+ContextGuard+%C2%B7+AegisSwarm-Core;IEEE+Senior+Member+%7C+13%2B+Peer-Reviewed+Papers+in+2026;Follow+for+New+Tools%2C+Threat+Research+%26+Detection+Engineering)](https://github.com/sunilgentyala)
 
 </div>
+
+---
+
+## I build open-source security tools for agentic AI, MCP, and LLM systems
+
+Creator of **[GSH Framework](https://github.com/sunilgentyala/gsh-framework)** (agentic AI threat hunting), **[ContextGuard](https://github.com/sunilgentyala/contextguard)** (zero-trust MCP middleware), **[AegisSwarm-Core](https://github.com/sunilgentyala/AegisSwarm-Core)** (multi-agent zero-trust governance), and the **[GenAI/LLM Pentest Harness](https://github.com/sunilgentyala/genai-llm-pentest-harness)** (companion to my CSO Online pen-testing guide). Follow for new AI-security tools, threat research, and detection engineering.
+
+### Flagship Projects
+
+[**GSH Framework**](https://github.com/sunilgentyala/gsh-framework) — Hunt playbooks and a policy-driven Sentinel reference framework for detecting runaway AI agents, unauthorized tool calls, behavioral drift, and poisoned MCP tools. MITRE ATLAS mapped. [![Stars](https://img.shields.io/github/stars/sunilgentyala/gsh-framework?style=flat&color=gold)](https://github.com/sunilgentyala/gsh-framework) [![Forks](https://img.shields.io/github/forks/sunilgentyala/gsh-framework?style=flat&color=blue)](https://github.com/sunilgentyala/gsh-framework/forks)
+
+[**ContextGuard**](https://github.com/sunilgentyala/contextguard) — Zero-trust governance middleware for Model Context Protocol deployments. [![Stars](https://img.shields.io/github/stars/sunilgentyala/contextguard?style=flat&color=gold)](https://github.com/sunilgentyala/contextguard)
+
+[**AegisSwarm-Core**](https://sunilgentyala.github.io/AegisSwarm-Core/) — Zero-trust security and governance for autonomous multi-agent AI networks, implementing the CSA Agentic Trust Framework with SPIFFE/SPIRE identity and OPA/Rego policy-as-code. Companion research published by the [Cloud Security Alliance](https://cloudsecurityalliance.org/blog/2026/06/24/securing-the-swarm-governance-attack-surfaces-and-zero-trust-architectures-in-multi-agent-ai-environments). [![Stars](https://img.shields.io/github/stars/sunilgentyala/AegisSwarm-Core?style=flat&color=gold)](https://github.com/sunilgentyala/AegisSwarm-Core)
+
+[**GenAI/LLM Pentest Harness**](https://github.com/sunilgentyala/genai-llm-pentest-harness) — Reference implementation of a GenAI/LLM/RAG pentest harness (mutate/sandbox/score/evidence loop) run against a real, deliberately vulnerable local RAG and tool-calling target. Companion to the [CSO Online pen-testing guide](https://www.csoonline.com/article/4219801/when-the-prompt-becomes-the-payload-a-practical-pen-testing-guide-for-genai-llm-and-rag-applications.html). [![Stars](https://img.shields.io/github/stars/sunilgentyala/genai-llm-pentest-harness?style=flat&color=gold)](https://github.com/sunilgentyala/genai-llm-pentest-harness)
 
 ---
 
@@ -35,15 +51,9 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 
 ---
 
-### Security & AI Governance Frameworks
-
-[ContextGuard](https://github.com/sunilgentyala/contextguard): Zero-trust middleware for Model Context Protocol (MCP) security [![Stars](https://img.shields.io/github/stars/sunilgentyala/contextguard?style=flat&color=gold)](https://github.com/sunilgentyala/contextguard)
+### More Security & AI Governance Frameworks
 
 [ContextGuard-MCP-PQC](https://github.com/sunilgentyala/contextguard-mcp-pqc): Post-quantum security framework for MCP, hybrid ML-KEM/ML-DSA handshake hardening with HNDL and downgrade-attack proofs of concept (accepted, IEEE ICSCSA 2026) [![Stars](https://img.shields.io/github/stars/sunilgentyala/contextguard-mcp-pqc?style=flat&color=gold)](https://github.com/sunilgentyala/contextguard-mcp-pqc)
-
-[GSH Framework](https://github.com/sunilgentyala/gsh-framework): Gentyala-Sovereign Hunt, agentic AI threat hunting mapped to MITRE ATLAS and NIST CSF 2.0 [![Stars](https://img.shields.io/github/stars/sunilgentyala/gsh-framework?style=flat&color=gold)](https://github.com/sunilgentyala/gsh-framework)
-
-[AegisSwarm-Core](https://sunilgentyala.github.io/AegisSwarm-Core/): Zero-trust governance for autonomous multi-agent AI networks using SPIFFE/SPIRE identity, OPA/Rego policy-as-code, and semantic guardrail gateways, mapped to the CSA Agentic Trust Framework and OWASP Top 10 Agentic Risks. Companion research published by the [Cloud Security Alliance](https://cloudsecurityalliance.org/blog/2026/06/24/securing-the-swarm-governance-attack-surfaces-and-zero-trust-architectures-in-multi-agent-ai-environments) [![Stars](https://img.shields.io/github/stars/sunilgentyala/AegisSwarm-Core?style=flat&color=gold)](https://github.com/sunilgentyala/AegisSwarm-Core)
 
 [TRACE-MAS](https://sunilgentyala.github.io/TRACE-MAS/): Unified cryptographic framework securing multi-agent LLM pipelines against cascading drift, identity spoofing, prompt injection, and temporal adversarial attacks (accepted, IEEE ICSCSA 2026) [![Stars](https://img.shields.io/github/stars/sunilgentyala/TRACE-MAS?style=flat&color=gold)](https://github.com/sunilgentyala/TRACE-MAS)
 
@@ -58,8 +68,6 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 [ArchForge](https://sunilgentyala.github.io/archforge/): Open-source system design workbench with 60+ interactive patterns, a real-time capacity calculator, and AI/LLM architecture templates [![Stars](https://img.shields.io/github/stars/sunilgentyala/archforge?style=flat&color=gold)](https://github.com/sunilgentyala/archforge)
 
 [ARGUS](https://github.com/sunilgentyala/argus): Agentic multi-agent framework for autonomous LLM vulnerability discovery, CVSSv4.0 scoring, 8-framework compliance mapping, SARIF output, mapped to the OWASP LLM Top 10 (2025) (accepted, IEEE ICCVBIC 2026) [![Stars](https://img.shields.io/github/stars/sunilgentyala/argus?style=flat&color=gold)](https://github.com/sunilgentyala/argus)
-
-[genai-llm-pentest-harness](https://github.com/sunilgentyala/genai-llm-pentest-harness): Reference implementation of a GenAI/LLM/RAG pentest harness (mutate/sandbox/score/evidence loop), run against a real, deliberately vulnerable local RAG and tool-calling target, companion to his [CSO Online pen-testing guide](https://www.csoonline.com/article/4219801/when-the-prompt-becomes-the-payload-a-practical-pen-testing-guide-for-genai-llm-and-rag-applications.html) [![Stars](https://img.shields.io/github/stars/sunilgentyala/genai-llm-pentest-harness?style=flat&color=gold)](https://github.com/sunilgentyala/genai-llm-pentest-harness)
 
 [MarkSentry](https://github.com/sunilgentyala/marksentry): Secure, local-first document-to-Markdown conversion with zero-trust input sanitization, multi-column PDF layout intelligence, LaTeX math conversion, and PII masking [![Stars](https://img.shields.io/github/stars/sunilgentyala/marksentry?style=flat&color=gold)](https://github.com/sunilgentyala/marksentry)
 
@@ -260,6 +268,6 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 - ORCID: [0009-0005-2642-3479](https://orcid.org/0009-0005-2642-3479)
 - IEEE Xplore Author Profile: [ieeexplore.ieee.org/author/445793536496057](https://ieeexplore.ieee.org/author/445793536496057)
 - Web of Science Researcher ID: PQA-0496-2026
-- BCS Fellowship (Experiential route) — application under final assessment
+- MBCS, British Computer Society
 - Zenodo DOI: [10.5281/zenodo.19241166](https://doi.org/10.5281/zenodo.19241166)
 - #FoundryExpert across IDG/Foundry publications (CSO Online, CIO.com, Computerworld)
