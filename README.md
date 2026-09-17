@@ -274,6 +274,8 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 - ORCID: [0009-0005-2642-3479](https://orcid.org/0009-0005-2642-3479)
 - IEEE Xplore Author Profile: [ieeexplore.ieee.org/author/445793536496057](https://ieeexplore.ieee.org/author/445793536496057)
 - Web of Science Researcher ID: PQA-0496-2026
-- MBCS, British Computer Society
+- MBCS, British Computer Society (Professional Member, No. 995177441, valid through 09/2027)
+- ACM Professional Member, No. 6835079
+- CIISec Affiliate, No. 220270 (Chartered Institute of Information Security)
 - Zenodo DOI: [10.5281/zenodo.19241166](https://doi.org/10.5281/zenodo.19241166)
 - #FoundryExpert across IDG/Foundry publications (CSO Online, CIO.com, Computerworld)
