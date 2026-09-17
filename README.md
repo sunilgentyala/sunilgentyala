@@ -7,7 +7,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-2642-3479)
 [![CSA Badge](https://img.shields.io/badge/Cloud_Security_Alliance-Expert-005F9E?style=for-the-badge)](https://cloudsecurityalliance.org/)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00629B&center=true&vCenter=true&width=800&lines=Open-Source+Security+Tools+for+Agentic+AI+%26+MCP;Creator%3A+GSH+Framework+%C2%B7+ContextGuard+%C2%B7+AegisSwarm-Core;IEEE+Senior+Member+%7C+13%2B+Peer-Reviewed+Papers+in+2026;Follow+for+New+Tools%2C+Threat+Research+%26+Detection+Engineering)](https://github.com/sunilgentyala)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00629B&center=true&vCenter=true&width=800&lines=Open-Source+Security+Tools+for+Agentic+AI+%26+MCP;Creator%3A+GSH+Framework+%C2%B7+ContextGuard+%C2%B7+AegisSwarm-Core;IEEE+Senior+Member+%7C+38%2B+Peer-Reviewed+Papers+in+2026;Follow+for+New+Tools%2C+Threat+Research+%26+Detection+Engineering)](https://github.com/sunilgentyala)
 
 </div>
 
@@ -39,7 +39,7 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 
 - Lead Cybersecurity and AI Security Consultant at HCLTech, managing Fortune 500 client security programs
 - IEEE Senior Member (No. 101760715) with ORCID 0009-0005-2642-3479
-- 38 peer-reviewed IEEE/CIBB conference papers accepted in 2026, 7 published on IEEE Xplore (CADLP, SybilShield-Core, IMM-CI/Identity 3.0, ContextGuard Supply Chain, AdaptFlow, and two IEEE MetroAeroSpace 2026 papers)
+- 19 peer-reviewed IEEE/CIBB conference papers accepted in 2026, 7 published on IEEE Xplore (CADLP, SybilShield-Core, IMM-CI/Identity 3.0, ContextGuard Supply Chain, AdaptFlow, and two IEEE MetroAeroSpace 2026 papers)
 - Applied research published with the Cloud Security Alliance on zero-trust architectures for multi-agent AI (June 2026)
 - 2026 Cybersecurity Excellence Awards Bronze, Cybersecurity Professional of the Year
 - Shortlisted, 2026 Cyber Security Influencer of the Year (Cyber Security Awards)
