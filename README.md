@@ -146,11 +146,19 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 
 [Post-quantum HTTPS migration faces enterprise browser challenges](https://www.scworld.com/perspective/post-quantum-https-migration-faces-enterprise-browser-challenges): SC World, July 2026, examines the HRPQ preload/cookie-scoping downgrade gap and enterprise TLS-inspecting proxy blind spots in post-quantum HTTPS migration, companion to the open-source [hrpq-gap-scan](https://github.com/sunilgentyala/hrpq-gap-scan) audit tool
 
+[Who Authorized the Algorithm? Reckoning with Ungoverned AI](https://www.cio.com/article/4180186/who-authorized-the-algorithm-reckoning-with-ungoverned-ai.html): CIO.com, June 2026, examines accountability gaps when autonomous AI systems make consequential decisions without clear human authorization
+
+[Securing the Swarm: Governance, Attack Surfaces, and Zero-Trust Architectures in Multi-Agent AI Environments](https://cloudsecurityalliance.org/blog/2026/06/24/securing-the-swarm-governance-attack-surfaces-and-zero-trust-architectures-in-multi-agent-ai-environments): Cloud Security Alliance, June 2026, governance framework for attack surfaces and zero-trust architectures across multi-agent AI environments
+
+[From Blueprints to Breaches: A Modern Playbook for Navigating Cyberthreats](https://securityboulevard.com/2026/06/from-blueprints-to-breaches-a-modern-playbook-for-navigating-cyberthreats/): Security Boulevard, June 2026, modern playbook connecting architectural blueprints to real-world breach patterns for navigating evolving cyberthreats
+
 [1,800+ MCP Servers Exposed Without Authentication: How Zero Trust Can Secure the AI Agent Revolution](https://www.csoonline.com/article/4168979/1800-mcp-servers-exposed-without-authentication-how-zero-trust-can-secure-the-ai-agent-revolution.html): CSO Online, May 2026, warns that over 1,800 unauthenticated MCP servers expose enterprise AI infrastructure to critical security risks
 
 [LLM-Generated Passwords Are Indefensible. Your Codebase May Already Prove It](https://www.csoonline.com/article/4155166/llm-generated-passwords-are-indefensible-your-codebase-may-already-prove-it.html): CSO Online, April 2026, shows LLM-generated passwords carry deceptively low entropy despite appearing complex, creating a targeted-attack risk when AI coding agents embed them directly in codebases
 
 [Post-Quantum Cryptographic Migration for Cloud-Native Zero-Trust Architectures: What CSA Members Need to Deploy Now](https://cloudsecurityalliance.org/blog/2026/04/06/post-quantum-cryptographic-migration-for-cloud-native-zero-trust-architectures-what-csa-members-need-to-deploy-now): Cloud Security Alliance, April 2026, migration guidance for CSA member organizations moving cloud-native zero-trust architectures to post-quantum cryptography
+
+[The Phantasmagoric Perimeter: Why Your Zero Trust Architecture Is a Mere Mirage](https://www.cyberdefensemagazine.com/the-phantasmagoric-perimeter-why-your-zero-trust-architecture-is-a-mere-mirage/): Cyber Defense Magazine, April 2026, argues that many enterprise zero-trust deployments are illusory perimeters rather than genuine trust-verification architectures
 
 [MCP is the Backdoor Your Zero-Trust Architecture Forgot to Close](https://www.scworld.com/perspective/mcp-is-the-backdoor-your-zero-trust-architecture-forgot-to-close/): SC World, March 2026, analysis of MCP security attack vectors, hidden AI attack surface, and zero-trust mitigations
 
@@ -164,6 +172,10 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 
 [For Application Security: SCA, SAST, DAST and MAST. What Next?](https://www.csoonline.com/article/4115679/for-application-security-sca-sast-dast-and-mast-what-next.html): CSO Online, January 2026, argues application security scanning must move beyond pre-release alerts toward a "posture, provenance, and proof" framework combining ASPM, SLSA/SBOM supply-chain rigor, and runtime protection
 
+[The Silent Saboteur: When AI Autoscaling Goes Rogue](https://www.cio.com/article/4122996/the-silent-saboteur-when-ai-autoscaling-goes-rogue.html): CIO.com, January 2026, examines how misconfigured AI-driven autoscaling can silently degrade reliability and inflate cloud costs
+
+[Securing the Knowledge Layer: Enterprise Security Architecture Frameworks for Proprietary Data Integration With Large Language Models](https://securityboulevard.com/2026/01/securing-the-knowledge-layer-enterprise-security-architecture-frameworks-for-proprietary-data-integration-with-large-language-models/): Security Boulevard, January 2026, security architecture frameworks for integrating proprietary enterprise data into large language model deployments
+
 [Hardening Browser Security with Zero-Trust Controls](https://www.csoonline.com/article/4101173/hardening-browser-security-with-zero-trust-controls.html): CSO Online, December 2025, six-principle browser-centric zero-trust framework with NIST SP 800-207 and CISA Maturity Model alignment
 
 [Navigating the Liminal Edge of AI Security: Deconstructing Prompt Injection, Model Poisoning, and Adversarial Perturbations in the Cognitive Cyber Domain](https://cloudsecurityalliance.org/blog/2025/12/01/navigating-the-liminal-edge-of-ai-security-deconstructing-prompt-injection-model-poisoning-and-adversarial-perturbations-in-the-cognitive-cyber-domain): Cloud Security Alliance, December 2025, deconstructs prompt injection, model poisoning, and adversarial perturbation threats across the AI security domain
@@ -171,6 +183,8 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 [Beyond Silos: How DDI-AI Integration Is Redefining Cyber Resilience](https://www.csoonline.com/article/4087578/beyond-silos-how-ddi-ai-integration-is-redefining-cyber-resilience.html): CSO Online, November 2025, how DDI-AI integration transforms cybersecurity from reactive defense to predictive, automated threat detection
 
 [Securing Application-to-Application Traffic with AI/AGI/ML-Powered Virtual Firewalls: A Comprehensive Framework for Multi-Cloud, Hybrid, and On-Premises Environments](https://cloudsecurityalliance.org/blog/2025/11/21/securing-application-to-application-traffic-with-ai-agi-ml-powered-virtual-firewalls-a-comprehensive-framework-for-multi-cloud-hybrid-and-on-premises-environments): Cloud Security Alliance, November 2025, comprehensive framework for AI/ML-powered virtual firewalls securing application-to-application traffic across multi-cloud, hybrid, and on-premises environments
+
+[The New Frontier of Cyber Threats: Unpacking Prompt Injection, Model Poisoning and Adversarial Attacks in AI Security](https://securityboulevard.com/2025/11/the-new-frontier-of-cyber-threats-unpacking-prompt-injection-model-poisoning-and-adversarial-attacks-in-ai-security/): Security Boulevard, November 2025, unpacks prompt injection, model poisoning, and adversarial attack techniques across the AI security threat landscape
 
 [Quantum Resistance and the Signal Protocol: From PQXDH to Triple Ratchet](https://www.csoonline.com/article/4078062/quantum-resistance-and-the-signal-protocol-from-pqxdh-to-triple-ratchet.html): CSO Online, October 2025, explains how Signal's PQXDH initial key exchange and SPQR ratcheting combine into a Triple Ratchet system protecting messaging against future quantum-computing attacks
 
