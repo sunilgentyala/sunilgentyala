@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=sunilgentyala&style=flat-square&color=blue)](https://github.com/sunilgentyala)
+[![Profile Views](https://hits.sh/github.com/sunilgentyala.svg?style=flat-square&label=Profile%20Views&color=0a66c2&extraCount=2791)](https://github.com/sunilgentyala)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunil-gentyala/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sunilgentyala.github.io)
 [![IEEE Badge](https://img.shields.io/badge/IEEE_Senior_Member-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/author/445793536496057)
