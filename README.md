@@ -138,6 +138,10 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 
 #### Industry Articles
 
+[Your enterprise doesn't need six BOM programs. It needs one evidence graph](https://www.csoonline.com/article/4231283/your-enterprise-doesnt-need-six-bom-programs-it-needs-one-evidence-graph.html): CSO Online, October 2026, argues that SBOM, CBOM, AI/ML BOM, and related inventories should be unified into one federated evidence graph, with a practical operating model that turns fragmented component, identity, AI, workflow, and runtime inventories into measurable executive decisions
+
+[MCP fixed secret handling. URL elicitation moved the phishing risk into the browser](https://www.scworld.com/perspective/mcp-fixed-secret-handling-url-elicitation-moved-the-phishing-risk-into-the-browser): SC World, October 2026, shows how MCP URL elicitation protects secrets but shifts phishing risk into trusted browser flows
+
 [When the Prompt Becomes the Payload: A Practical Pen-Testing Guide for GenAI, LLM and RAG Applications](https://www.csoonline.com/article/4219801/when-the-prompt-becomes-the-payload-a-practical-pen-testing-guide-for-genai-llm-and-rag-applications.html): CSO Online, September 2026, a practical pen-testing methodology for GenAI/LLM/RAG applications, framing vulnerabilities as attack chains across retrieval, identity, tools, and business workflows rather than isolated jailbreak tests; companion reference implementation: [genai-llm-pentest-harness](https://github.com/sunilgentyala/genai-llm-pentest-harness)
 
 [Shadow Agents: How IT Leaders Must Govern Headless AI Before It Breaks the Enterprise](https://www.cio.com/article/4191250/shadow-agents-how-it-leaders-must-govern-headless-ai-before-it-breaks-the-enterprise.html): CIO.com, July 2026, argues IT leaders must establish governance infrastructure, including prompt management, guardrails, and runtime isolation, to track and control autonomous AI agents operating invisibly within enterprise systems before security incidents occur
