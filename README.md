@@ -126,7 +126,7 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 
 [LLM Jailbreak Survey](https://doi.org/10.5281/zenodo.19241166): published to Zenodo (DOI: 10.5281/zenodo.19241166) and SSRN
 
-[Governing Agentic AI via MCP and COBIT 2019/NIST CSF 2.0](https://www.isaca.org/resources/isaca-journal): ISACA Journal, co-authored with Praveen Kumar Mannam (Salesforce), under review
+[On Auditing MCP Deployments](https://www.isaca.org/resources/isaca-journal/issues/2026/volume-5/on-auditing-mcp-deployments): ISACA Journal, 2026 Volume 5 (published 7 October 2026), co-authored with Praveen Kumar Mannam (Salesforce)
 
 #### Applied Research
 
