@@ -199,6 +199,8 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 
 #### Media Coverage & Podcast Citations
 
+[Pentests für KI-Systeme: ein Leitfaden für die Praxis](https://www.computerwoche.de/article/4234943/pentests-fur-ki-systeme-ein-leitfaden-fur-die-praxis.html): COMPUTERWOCHE (Germany), October 2026, German edition of his CSO Online GenAI, LLM and RAG pen-testing guide, published through the Foundry expert contributor network; the magazine's LinkedIn post introduces him as "Unser Experte"
+
 [DevSecOps Weekly, October 11, 2026](https://www.cybersecurityinstitute.com/blog/?p=6050): CyberSecurity Institute, October 2026, features his CSO Online evidence graph article in its "SBOMs, the CRA and evidence" section, summarizing the proposal to link software, cryptography, AI and authorization BOMs in one evidence graph and the 90-day pilot measured by how quickly affected deployments can be found
 
 [When the Prompt Becomes the Payload — CSO Online promo post](https://www.linkedin.com/feed/update/urn:li:activity:7503480319363346433/): LinkedIn, CSO Online (official account), September 2026, promoting his GenAI/LLM/RAG pen-testing guide; CSO Online editor Ed Murray engaged directly in the comments, asking how conventional AppSec testing should adapt to probabilistic LLM outputs without generating false positives
