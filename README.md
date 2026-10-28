@@ -138,6 +138,8 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 
 #### Industry Articles
 
+[After memory poisoning, an AI agent needs more than a restart](https://www.scworld.com/perspective/after-memory-poisoning-an-ai-agent-needs-more-than-a-restart): SC World, October 2026, sets out an incident-response sequence for poisoned agent memory: preserve state before cleaning, identify the persistence mechanism, trace contamination into derived context, and require evidence before restoring the agent's authority
+
 [Your enterprise doesn't need six BOM programs. It needs one evidence graph](https://www.csoonline.com/article/4231283/your-enterprise-doesnt-need-six-bom-programs-it-needs-one-evidence-graph.html): CSO Online, October 2026, argues that SBOM, CBOM, AI/ML BOM, and related inventories should be unified into one federated evidence graph, with a practical operating model that turns fragmented component, identity, AI, workflow, and runtime inventories into measurable executive decisions
 
 [MCP fixed secret handling. URL elicitation moved the phishing risk into the browser](https://www.scworld.com/perspective/mcp-fixed-secret-handling-url-elicitation-moved-the-phishing-risk-into-the-browser): SC World, October 2026, shows how MCP URL elicitation protects secrets but shifts phishing risk into trusted browser flows
@@ -195,6 +197,8 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 [Quantum Resistance and the Signal Protocol: From PQXDH to Triple Ratchet](https://www.csoonline.com/article/4078062/quantum-resistance-and-the-signal-protocol-from-pqxdh-to-triple-ratchet.html): CSO Online, October 2025, explains how Signal's PQXDH initial key exchange and SPQR ratcheting combine into a Triple Ratchet system protecting messaging against future quantum-computing attacks
 
 #### Media Coverage & Podcast Citations
+
+[DevSecOps Weekly, October 11, 2026](https://www.cybersecurityinstitute.com/blog/?p=6050): CyberSecurity Institute, October 2026, features his CSO Online evidence graph article in its "SBOMs, the CRA and evidence" section, summarizing the proposal to link software, cryptography, AI and authorization BOMs in one evidence graph and the 90-day pilot measured by how quickly affected deployments can be found
 
 [When the Prompt Becomes the Payload — CSO Online promo post](https://www.linkedin.com/feed/update/urn:li:activity:7503480319363346433/): LinkedIn, CSO Online (official account), September 2026, promoting his GenAI/LLM/RAG pen-testing guide; CSO Online editor Ed Murray engaged directly in the comments, asking how conventional AppSec testing should adapt to probabilistic LLM outputs without generating false positives
 
