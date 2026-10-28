@@ -39,7 +39,7 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 
 - Lead Cybersecurity and AI Security Consultant at HCLTech, managing Fortune 500 client security programs
 - IEEE Senior Member (No. 101760715) with ORCID 0009-0005-2642-3479
-- 19 peer-reviewed IEEE/CIBB conference papers accepted in 2026, 11 published on IEEE Xplore (CADLP, SybilShield-Core, IMM-CI/Identity 3.0, ContextGuard Supply Chain, AdaptFlow, ARGUS, two IEEE MetroAeroSpace 2026 papers, ContextGuard-MCP-PQC, TRACE-MAS, and CyberFuse-CI)
+- 19 peer-reviewed IEEE/CIBB conference papers accepted in 2026, 12 published on IEEE Xplore (CADLP, SybilShield-Core, IMM-CI/Identity 3.0, ContextGuard Supply Chain, AdaptFlow, ARGUS, two IEEE MetroAeroSpace 2026 papers, ContextGuard-MCP-PQC, TRACE-MAS, CyberFuse-CI, and DKG-TLAN)
 - Applied research published with the Cloud Security Alliance on zero-trust architectures for multi-agent AI (June 2026)
 - 2026 Cybersecurity Excellence Awards Bronze, Cybersecurity Professional of the Year
 - Shortlisted, 2026 Cyber Security Influencer of the Year (Cyber Security Awards)
@@ -116,6 +116,7 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 | [Agentic Security Validation Framework for Retrieval-Augmented and Tool-Enabled Large Language Model Systems (ARGUS)](https://ieeexplore.ieee.org/document/11689544) | IEEE ICCVBIC 2026, DOI: [10.1109/ICCVBIC71195.2026.11689544](https://ieeexplore.ieee.org/document/11689544) (published, IEEE Xplore) |
 | [A Unified Mathematical Framework for Secure Multi-Agent Large Language Model Pipelines (TRACE-MAS)](https://ieeexplore.ieee.org/document/11708210) | IEEE ICSCSA 2026, Paper ICSCSA-168, DOI: [10.1109/ICSCSA69367.2026.11708210](https://ieeexplore.ieee.org/document/11708210) (published, IEEE Xplore) |
 | [CyberFuse-CI: Adversarially Resilient Vulnerability Detection Through Heterogeneous Multi-Source Data Fusion and LLM-Augmented Reasoning](https://ieeexplore.ieee.org/document/11710523) | IEEE ICETCI 2026, EDAS #1571273793, DOI: [10.1109/ICETCI71772.2026.11710523](https://ieeexplore.ieee.org/document/11710523) (published, IEEE Xplore) |
+| [Anomaly Detection by using Dynamic Knowledge Graph with Temporal Attention Network (DKG-TLAN)](https://ieeexplore.ieee.org/document/11724336) | IEEE ICoICI 2026, DOI: [10.1109/ICoICI69824.2026.11724336](https://ieeexplore.ieee.org/document/11724336) (published, IEEE Xplore) |
 | Quantum-Assisted Clinical Risk Factor Selection for Diabetes Readmission Prediction | CIBB 2026, Quantum AI for Bioinformatics track (QAOA on a 54-qubit superconducting processor, with Floriano Caprio, Matteo Tortora, and Paolo Soda) |
 
 #### Journal Publications & Preprints
