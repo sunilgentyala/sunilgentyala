@@ -203,6 +203,8 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 
 [DevSecOps Weekly, October 11, 2026](https://www.cybersecurityinstitute.com/blog/?p=6050): CyberSecurity Institute, October 2026, features his CSO Online evidence graph article in its "SBOMs, the CRA and evidence" section, summarizing the proposal to link software, cryptography, AI and authorization BOMs in one evidence graph and the 90-day pilot measured by how quickly affected deployments can be found
 
+[Google Cloud PQC Roadmap: Signatures Trail by a Year](https://postquantum.com/security-pqc/google-cloud-pqc-roadmap/): PostQuantum.com, August 2026, Marin Ivezic cites his April 2026 Cloud Security Alliance post on post-quantum migration for cloud-native zero trust, which argued that 2026 cloud renewals were the window to negotiate PQC readiness language
+
 [When the Prompt Becomes the Payload — CSO Online promo post](https://www.linkedin.com/feed/update/urn:li:activity:7503480319363346433/): LinkedIn, CSO Online (official account), September 2026, promoting his GenAI/LLM/RAG pen-testing guide; CSO Online editor Ed Murray engaged directly in the comments, asking how conventional AppSec testing should adapt to probabilistic LLM outputs without generating false positives
 
 [Post-Quantum Cryptography Key Management — release announcement](https://www.linkedin.com/feed/update/urn:li:activity:7500162418845585409/): LinkedIn, Cloud Security Alliance (official account), August 2026, CSA's own comment thanks its "subject matter reviewers who always help us improve our work," naming Sunil Gentyala directly alongside the review team
