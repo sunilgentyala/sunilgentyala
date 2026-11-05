@@ -82,7 +82,7 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 | Project | Description |
 |---|---|
 | [ZKP-RA](https://github.com/sunilgentyala/ZKP-RA) | Zero-knowledge proof reasoning anchors mitigating memory poisoning in autonomous agentic DeFi, Groth16 zk-SNARKs, 182 ms proofs |
-| [QuantumShieldEdge](https://github.com/sunilgentyala/QuantumShieldEdge) | Hybrid QKD-integrated federated learning for secure consumer IoT at the network edge (target venue, IEEE CCNC 2027) |
+| [QuantumShieldEdge](https://github.com/sunilgentyala/QuantumShieldEdge) | Hybrid QKD-integrated federated learning for secure consumer IoT at the network edge (under review, Journal of Parallel and Distributed Computing) |
 | [cipher-mcp-pqc](https://github.com/sunilgentyala/cipher-mcp-pqc) | Hybrid post-quantum governance framework for MCP, composite identity and protocol handshake hardening |
 | [VigilAgent](https://github.com/sunilgentyala/VigilAgent) | Security auditing CLI for AI-agent-authored code changesets, detects package hallucinations and indirect prompt injection |
 | [OmniRed](https://github.com/sunilgentyala/OmniRed) | Multi-AI offensive security skills library for Claude, ChatGPT, Gemini, and Microsoft Copilot |
