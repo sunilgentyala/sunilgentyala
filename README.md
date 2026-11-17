@@ -41,7 +41,7 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 
 - Lead Cybersecurity and AI Security Consultant at HCLTech, managing Fortune 500 client security programs
 - IEEE Senior Member (No. 101760715) with ORCID 0009-0005-2642-3479
-- 19 peer-reviewed IEEE/CIBB conference papers accepted in 2026, 14 published on IEEE Xplore (CADLP, SybilShield-Core, IMM-CI/Identity 3.0, ContextGuard Supply Chain, AdaptFlow, ARGUS, two IEEE MetroAeroSpace 2026 papers, ContextGuard-MCP-PQC, TRACE-MAS, CyberFuse-CI, DKG-TLAN, the ICCES 2026 quantum-safe metadata paper, and PAQO)
+- 20 peer-reviewed IEEE conference papers accepted in 2026 (plus CIBB 2026), 14 published on IEEE Xplore (CADLP, SybilShield-Core, IMM-CI/Identity 3.0, ContextGuard Supply Chain, AdaptFlow, ARGUS, two IEEE MetroAeroSpace 2026 papers, ContextGuard-MCP-PQC, TRACE-MAS, CyberFuse-CI, DKG-TLAN, the ICCES 2026 quantum-safe metadata paper, and PAQO)
 - Applied research published with the Cloud Security Alliance on zero-trust architectures for multi-agent AI (June 2026)
 - 2026 Cybersecurity Excellence Awards Bronze, Cybersecurity Professional of the Year
 - Shortlisted, 2026 Cyber Security Influencer of the Year (Cyber Security Awards)
