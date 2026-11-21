@@ -142,6 +142,8 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 
 #### Industry Articles
 
+[Who approves the files that control your AI coding assistant?](https://www.csoonline.com/article/4242707/who-approves-the-files-that-control-your-ai-coding-assistant.html): CSO Online, November 2026, argues that repository instruction files and hooks can alter developer environments, so security teams need approval processes that track changes from pull request to execution
+
 [After memory poisoning, an AI agent needs more than a restart](https://www.scworld.com/perspective/after-memory-poisoning-an-ai-agent-needs-more-than-a-restart): SC World, October 2026, sets out an incident-response sequence for poisoned agent memory: preserve state before cleaning, identify the persistence mechanism, trace contamination into derived context, and require evidence before restoring the agent's authority
 
 [Your enterprise doesn't need six BOM programs. It needs one evidence graph](https://www.csoonline.com/article/4231283/your-enterprise-doesnt-need-six-bom-programs-it-needs-one-evidence-graph.html): CSO Online, October 2026, argues that SBOM, CBOM, AI/ML BOM, and related inventories should be unified into one federated evidence graph, with a practical operating model that turns fragmented component, identity, AI, workflow, and runtime inventories into measurable executive decisions
