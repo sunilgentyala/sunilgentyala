@@ -119,6 +119,7 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 | [Anomaly Detection by using Dynamic Knowledge Graph with Temporal Attention Network (DKG-TLAN)](https://ieeexplore.ieee.org/document/11724336) | IEEE ICoICI 2026, DOI: [10.1109/ICoICI69824.2026.11724336](https://ieeexplore.ieee.org/document/11724336) (published, IEEE Xplore) |
 | [PAQO: Predictive Agentic Quality-of-Service Optimization for Heterogeneous Enterprise Storage](https://ieeexplore.ieee.org/document/11747667) | IEEE I-SMAC 2026, DOI: [10.1109/I-SMAC70384.2026.11747667](https://ieeexplore.ieee.org/document/11747667) (published, IEEE Xplore) |
 | [Mitigation of Quantum-Safe Metadata Explosion in Open Table Layouts using Agentic Optimization](https://ieeexplore.ieee.org/document/11762688) | IEEE ICCES 2026, DOI: [10.1109/ICCES70397.2026.11762688](https://ieeexplore.ieee.org/document/11762688) (published, IEEE Xplore) |
+| [PRAVAL: A Progressive Recursive Agentic AI Framework for End-to-End Vulnerability Assessment Lifecycle Automation](https://ieeexplore.ieee.org/document/11791010) | IEEE ICUIS 2026, Paper ICUIS-344, DOI: [10.1109/ICUIS70669.2026.11791010](https://ieeexplore.ieee.org/document/11791010) (published, IEEE Xplore) |
 | Quantum-Assisted Clinical Risk Factor Selection for Diabetes Readmission Prediction | CIBB 2026, Quantum AI for Bioinformatics track (QAOA on a 54-qubit superconducting processor, with Floriano Caprio, Matteo Tortora, and Paolo Soda) |
 
 #### Journal Publications & Preprints
