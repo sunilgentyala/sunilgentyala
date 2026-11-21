@@ -41,7 +41,7 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 
 - Lead Cybersecurity and AI Security Consultant at HCLTech, managing Fortune 500 client security programs
 - IEEE Senior Member (No. 101760715) with ORCID 0009-0005-2642-3479
-- 20 peer-reviewed IEEE conference papers accepted in 2026 (plus CIBB 2026), 14 published on IEEE Xplore (CADLP, SybilShield-Core, IMM-CI/Identity 3.0, ContextGuard Supply Chain, AdaptFlow, ARGUS, two IEEE MetroAeroSpace 2026 papers, ContextGuard-MCP-PQC, TRACE-MAS, CyberFuse-CI, DKG-TLAN, the ICCES 2026 quantum-safe metadata paper, and PAQO)
+- 20 peer-reviewed IEEE conference papers accepted in 2026 (plus CIBB 2026), 15 published on IEEE Xplore (PRAVAL, CADLP, SybilShield-Core, IMM-CI/Identity 3.0, ContextGuard Supply Chain, AdaptFlow, ARGUS, two IEEE MetroAeroSpace 2026 papers, ContextGuard-MCP-PQC, TRACE-MAS, CyberFuse-CI, DKG-TLAN, the ICCES 2026 quantum-safe metadata paper, and PAQO)
 - Applied research published with the Cloud Security Alliance on zero-trust architectures for multi-agent AI (June 2026)
 - 2026 Cybersecurity Excellence Awards Bronze, Cybersecurity Professional of the Year
 - Shortlisted, 2026 Cyber Security Influencer of the Year (Cyber Security Awards)
@@ -92,7 +92,7 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 | [model-provenance-guard](https://github.com/sunilgentyala/model-provenance-guard) | Cryptographic provenance verification for ML model artifacts (Safetensors, GGUF, PyTorch) in CI/CD pipelines |
 | [PRANIDHI](https://github.com/sunilgentyala/PRANIDHI) | Pre-prompt coaching framework for enterprise AI, teaches safe prompt rewriting instead of blocking |
 | [ReasonTree](https://github.com/sunilgentyala/ReasonTree) | Reasoning-based document retrieval using hierarchical tree indexing, no vector database required |
-| [cyberfuse-ci](https://github.com/sunilgentyala/cyberfuse-ci) | Adversarially resilient vulnerability detection via heterogeneous multi-source data fusion and LLM-augmented reasoning (accepted, IEEE ICETCI 2026) |
+| [cyberfuse-ci](https://github.com/sunilgentyala/cyberfuse-ci) | Adversarially resilient vulnerability detection via heterogeneous multi-source data fusion and LLM-augmented reasoning (published, [IEEE Xplore](https://ieeexplore.ieee.org/document/11710523), IEEE ICETCI 2026) |
 | [imm-ci-framework](https://github.com/sunilgentyala/imm-ci-framework) | IMM-CI self-assessment tool, companion to the IEEE SmartNets 2026 paper (published, [IEEE Xplore](https://ieeexplore.ieee.org/document/11604842)) |
 | [awesome-ai-security](https://github.com/sunilgentyala/awesome-ai-security) | Curated collection of resources related to AI security |
 
@@ -100,7 +100,7 @@ He is the creator of open-source security frameworks including **ContextGuard** 
 
 ### Selected Publications & Media
 
-#### Accepted IEEE Conference Papers (2026)
+#### IEEE Conference Papers (2026)
 
 | Paper | Venue |
 |---|---|
